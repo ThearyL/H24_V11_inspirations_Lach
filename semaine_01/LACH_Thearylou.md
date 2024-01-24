@@ -6,5 +6,5 @@ Ce qui m'intéresse dans ce domaine c'est le lien entre la créativité et la te
 J'espères de découvrir plus sur ce domaine pendant mon parcours scolaire.
 
 ## Mes intérêts personnels
-J'aime les jeux vidéos c'est un passe temps qui m'aide à me relaxer. C'est une des raisons pourquoi j'ai choisi de m'inscrire dans à la technique TIM.
+J'aime les jeux vidéos, car c'est un passe temps qui m'aide à me relaxer. C'est une des raisons pourquoi j'ai choisi de m'inscrire dans à la technique TIM.
 Aussi, je vais au gym pour m'entraîner. Ça aide à ma santé mentale.
