@@ -1,6 +1,6 @@
 # Jeremy Shaw: Phase Shifting Index
 
-### Lieu de mise en exposition
+### Lieu de mise en exposition: Fonderie Daring - Montréal, Québec
 
 ### Type d'exposition
 
