@@ -15,6 +15,7 @@
 ## Description de l'oeuvre
 
 ## Type d'installation
+Panneau acoustique
 
 ## Mise en espace
 
