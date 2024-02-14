@@ -18,6 +18,7 @@
 Panneau acoustique
 
 ## Mise en espace
+![photo](media/croquis_plan_mise_en_espace.jpg)
 
 ## Composantes et techniques
 
