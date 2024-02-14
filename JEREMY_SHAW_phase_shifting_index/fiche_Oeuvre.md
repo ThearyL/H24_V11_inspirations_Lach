@@ -7,7 +7,6 @@
 ### Date de votre visite: 31 janvier 2024
 
 ## Phase Shifting Index
-![photo](media/composante.jpg)
 
 ### Nom de l'artiste : Jeremy Shaw
 
@@ -27,6 +26,7 @@ Panneau acoustique
 ## Expérience vécue
 
 ### Ce qui vous a plu, vous a donné des idées
+
 
 ###  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
