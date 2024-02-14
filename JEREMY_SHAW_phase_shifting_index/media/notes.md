@@ -1,4 +1,4 @@
-* Mes notes
+# Mes notes
 
 Le tapis fait partie de l'expérience. Un choix par l'artiste.
 
