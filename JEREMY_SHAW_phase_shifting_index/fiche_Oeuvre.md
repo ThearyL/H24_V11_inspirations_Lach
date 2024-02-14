@@ -7,7 +7,7 @@
 ### Date de votre visite: 31 janvier 2024
 
 ## Phase Shifting Index
-![photo](composante.jpg)
+![photo](media/composante.jpg)
 
 ### Nom de l'artiste : Jeremy Shaw
 
