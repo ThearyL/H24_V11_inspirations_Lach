@@ -28,7 +28,7 @@ Panneau acoustique
 ## Expérience vécue
 
 ### Ce qui vous a plu, vous a donné des idées
-
+Ce qui m'a plu est le fait que chaque film pour chaque installation était différente, mais je pouvais sentir qu'il y avait une connection entre chaque vidéo. Chaque installation avait l'effet de VHS, une narration et les chorégraphies avaient des styles qui montraient un ensemble de cultures.
 
 ###  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 
