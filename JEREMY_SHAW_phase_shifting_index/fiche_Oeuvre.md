@@ -1,6 +1,7 @@
 # *Jeremy Shaw: Phase Shifting Index*
 
 ### Lieu de mise en exposition: Fonderie Daring - Montréal, Québec
+![photo](media/edifice_fonderie_darling.jpg)
 
 ### Type d'exposition: temporaire - intérieure
 
