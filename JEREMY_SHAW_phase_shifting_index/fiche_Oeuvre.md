@@ -15,6 +15,10 @@
 
 ## Description de l'oeuvre
 ![photo](media/cartel.jpg)
+ *Phase Shifting Index, 2020 [index d'états de transition]
+"Installation vidéographique à sept canaux, couleurs et noir-et-blanc, avec son multi-canaux et lumière, 35 min 17 s
+ Avec l'aimable permission de l'artiste et Bradley Ertaskiran"
+
 ## Type d'installation
 Panneau acoustique
 
