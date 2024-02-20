@@ -45,7 +45,7 @@ Panneau acoustique
 
 ## Expérience vécue
 ![photo](media/salle_attente.jpg)
-
+![photo](media/mise_en_espace_vue_05.jpg)
 [![vidéo](https://img.youtube.com/vi/MXEfmx3LSqM/0.jpg)](https://www.youtube.com/watch?v=MXEfmx3LSqM)
 ![photo](media/oeuvre_lumieres_neuro.jpg)
 
