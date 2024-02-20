@@ -20,6 +20,10 @@
 "Installation vidéographique à sept canaux, couleurs et noir-et-blanc, avec son multi-canaux et lumière, 35 min 17 s
  Avec l'aimable permission de l'artiste et Bradley Ertaskiran"
 
+ Vaste installation vidéo immersive à sept canaux, Phase Shifting Index [Index d’états de transition] est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8. 
+
+ 
+
 ## Type d'installation
 Panneau acoustique
 
