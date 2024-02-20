@@ -3,7 +3,7 @@
 ### Lieu de mise en exposition: Fonderie Daring - Montréal, Québec
 ![photo](media/edifice_fonderie_darling.jpg)
 
-### Type d'exposition: temporaire - intérieure
+### Type d'exposition: temporaire - intérieure (12 décembre 2023 - 25 février 2024)
 
 ### Date de la visite: 31 janvier 2024
 
@@ -28,13 +28,14 @@
  
 
 ## Type d'installation
-Panneau acoustique
+Installation Immersive
+[![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws)
 
 ## Mise en espace
 ![photo](media/croquis_plan_mise_en_espace.jpg)
 
 ## Composantes et techniques
-
+Panneau acoustique
 ## Éléments nécessaires à la mise en exposition
 
 ## Expérience vécue
