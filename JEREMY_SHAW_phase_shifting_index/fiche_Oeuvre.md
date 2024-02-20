@@ -5,7 +5,7 @@
 
 ### Type d'exposition: temporaire - intérieure
 
-### Date de votre visite: 31 janvier 2024
+### Date de la visite: 31 janvier 2024
 
 ## Phase Shifting Index
 
