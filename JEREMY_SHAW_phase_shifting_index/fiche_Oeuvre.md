@@ -33,7 +33,7 @@ Installation Immersive
 
 ## Mise en espace
 ![photo](media/croquis_plan_mise_en_espace.jpg)
-![photo](media/salle_attente.jpg)
+
 ![photo](media/oeuvre_composantes_01.jpg)
 
 ## Composantes et techniques
@@ -44,6 +44,8 @@ Panneau acoustique
 ## Éléments nécessaires à la mise en exposition
 
 ## Expérience vécue
+![photo](media/salle_attente.jpg)
+[![vidéo](https://img.youtube.com/vi/MXEfmx3LSqM/0.jpg)](https://www.youtube.com/watch?v=MXEfmx3LSqM)
 
 ### Ce qui vous a plu, vous a donné des idées
 Ce qui m'a plu est le fait que chaque film pour chaque installation était différente, mais je pouvais sentir qu'il y avait une connection entre chaque vidéo. Chaque installation avait l'effet de VHS, une narration et les chorégraphies avaient des styles qui montraient un ensemble de cultures.
