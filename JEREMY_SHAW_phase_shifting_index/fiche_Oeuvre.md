@@ -34,10 +34,12 @@ Installation Immersive
 ## Mise en espace
 ![photo](media/croquis_plan_mise_en_espace.jpg)
 ![photo](media/salle_attente.jpg)
+![photo](media/oeuvre_composantes_01.jpg)
 
 ## Composantes et techniques
 ![photo](media/oeuvre_composantes_01.jpg)
 ![photo](media/oeuvre_composantes_02.jpg)
+![photo](media/oeuvre_composantes_03.jpg)
 Panneau acoustique
 ## Éléments nécessaires à la mise en exposition
 
