@@ -42,8 +42,25 @@ Il y a sept écrans dans la mise en espace. La distances des écrans est sépar�
 ![photo](media/oeuvre_composantes_01.jpg)
 ![photo](media/oeuvre_composantes_02.jpg)
 ![photo](media/oeuvre_composantes_03.jpg)
-Panneau acoustique
+
+* 7 écrans de projection
+* 7 projecteurs
+* gros haut-paleurs
+* petits haut-parleurs
+* câbles d'audio
+* lumières
+
 ## Éléments nécessaires à la mise en exposition
+* Panneaux acoustiques
+* tapis
+* bancs
+* Câbles et adapteurs
+* barres en métal attachées au plafond
+* barres de soutien pour les lumières
+* Soutiens pour haut-parleurs
+* Soutiens pour projecteurs
+* Ordinateur
+  
 
 ## Expérience vécue
 ![photo](media/salle_attente.jpg)
