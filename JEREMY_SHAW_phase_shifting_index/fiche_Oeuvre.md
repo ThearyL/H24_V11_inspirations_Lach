@@ -33,6 +33,7 @@ Installation Immersive
 
 ## Mise en espace
 ![photo](media/croquis_plan_mise_en_espace.jpg)
+![photo](media/salle_attente)
 
 ## Composantes et techniques
 Panneau acoustique
