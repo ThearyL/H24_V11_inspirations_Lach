@@ -36,6 +36,8 @@ Installation Immersive
 
 ![photo](media/oeuvre_composantes_01.jpg)
 
+Il y a sept écrans dans la mise en espace. La distances des écrans est séparé de façon égale, 2 à gauche, 3 au milieu et 2 à droite.  Sur le long du mur proche de l’entrer, il y a les estrades. Il y a un trois bancs proches des écrans 1, 4 et 6 pour que le visiteur soit plus absorbé dans l'expérience.
+
 ## Composantes et techniques
 ![photo](media/oeuvre_composantes_01.jpg)
 ![photo](media/oeuvre_composantes_02.jpg)
