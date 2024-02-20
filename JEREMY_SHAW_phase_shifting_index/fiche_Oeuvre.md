@@ -36,6 +36,8 @@ Installation Immersive
 ![photo](media/salle_attente.jpg)
 
 ## Composantes et techniques
+![photo](media/oeuvre_composantes_01.jpg)
+![photo](media/oeuvre_composantes_02.jpg)
 Panneau acoustique
 ## Éléments nécessaires à la mise en exposition
 
