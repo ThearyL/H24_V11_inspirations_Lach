@@ -85,7 +85,7 @@ Vers 1:20 min de la vidéo, les vidéos se transitions dans un effet de "glitch"
 
 ![photo](media/oeuvre_lumieres_neuro.jpg)
 
-Ensuite, les vidéos se transitions dans un moment euphorique et les lumières changes couleurs comme on peut voir sur l'image ci-dessus. Je me sentais calme à ce moment-ci.
+Ensuite, les vidéos se transitionnes dans un moment euphorique et les lumières changes couleurs comme on peut voir sur l'image ci-dessus. Je me sentais calme à ce moment-ci.
 
 À la fin c'était une expérience étrange, mais j'ai bien aimé l'avoir vécu.
 
