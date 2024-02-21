@@ -81,7 +81,7 @@ Au début des vidéos des installations, chaque groupe parle de leur expérience
 </div>
 
 Après un certains temps, comme on peut le voir au début de la vidéo ci-dessus, les lumières clignotent de façon stroboscopique et le son qui sort des haut-parleurs devient sinistres.
-Vers 1 min 20 sec de la vidéo, les vidéos se transitions dans un effet de "glitch". À ce moment-ci, il y avait un sentiment étrange que je sentais.
+Vers 1:20 min de la vidéo, les vidéos se transitions dans un effet de "glitch". À ce moment-ci, il y avait un sentiment étrange que je sentais.
 
 ![photo](media/oeuvre_lumieres_neuro.jpg)
 
