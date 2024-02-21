@@ -35,7 +35,7 @@ Exemple vidéo:
 ![photo](media/oeuvre_composantes_01.jpg)
 ![photo](media/croquis_plan_mise_en_espace.jpg)
 
-Il y a sept écrans de projecteurs et  sept projecteurs dans la mise en espace. La distances des écrans est séparé de façon égale, 2 à gauche, 3 au milieu et 2 à droite.  Sur le long du mur proche de l’entrer, il y a les estrades. Il y a un trois bancs proches des écrans 2, 4 et 6 pour que le visiteur soit plus absorbé dans l'expérience.
+Il y a sept écrans de projecteurs et sept projecteurs dans la mise en espace. La distance des écrans est séparée de façon égale, 2 à gauche, 3 au milieu et 2 à droite. Sur le long du mur proche de l’entrer, il y a les estrades. Il y a trois bancs proches des écrans 2, 4 et 6 pour que le visiteur soit plus absorbé dans l'expérience. 
 
 ## Composantes et techniques
 ### Composantes fournies par l'artiste:
