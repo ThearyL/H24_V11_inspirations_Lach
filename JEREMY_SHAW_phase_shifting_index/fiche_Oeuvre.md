@@ -2,9 +2,9 @@
 
 ### Lieu de mise en exposition: Fonderie Daring - Montréal, Québec
 ![image par[Fonderie Darling](http://www.fonderiedarling.org/)](media/edifice_fonderie_darling.jpg)
+<p align="right">(Image prise sur http://www.fonderiedarling.org/)</p>
 
 ### Type d'exposition: temporaire - intérieure (12 décembre 2023 - 25 février 2024)
-
 ### Date de la visite: 31 janvier 2024
 
 ## Phase Shifting Index
@@ -13,15 +13,12 @@
 
 ### Année de réalisation: 2020
 
-## Description de l'oeuvre
+## Description de l'oeuvre 
+> Vaste installation vidéo immersive à sept canaux, Phase Shifting Index [Index d’états de transition] est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8.
+>
+> -- <cite>(https://macm.org/en/exhibitions/jeremy-shaw/)</cite>
+
 ![photo](media/cartel.jpg)
- Phase Shifting Index, 2020 [Index d'états de transition]
- 
-"Installation vidéographique à sept canaux, couleurs et noir-et-blanc, avec son multi-canaux et lumière, 35 min 17 s
- Avec l'aimable permission de l'artiste et Bradley Ertaskiran"
-
- Vaste installation vidéo immersive à sept canaux, Phase Shifting Index [Index d’états de transition] est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8. 
-
 ![photo](media/mise_en_espace_vue_02.jpg)
 ![photo](media/mise_en_espace_vue_03.jpg)
 ![photo](media/mise_en_espace_vue_04.jpg)
