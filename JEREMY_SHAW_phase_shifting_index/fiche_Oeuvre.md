@@ -27,7 +27,7 @@
 ## Type d'installation
 Installation immersive
 
-Exemple:
+Exemple vidéo:
 
 [![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws )
 
@@ -66,9 +66,10 @@ Il y a sept écrans de projecteurs et  sept projecteurs dans la mise en espace. 
 
 ## Expérience vécue
 ![photo](media/salle_attente.jpg)
-
+<p align="right">(Image prise sur(https://macm.org/en/exhibitions/jeremy-shaw/))</p>
 Avant de rentrer, les visiteurs doivent enlèver leurs chaussures ou les couvrirent avec des platics bleu. Les visiteurs sont accueillis dans une salle avec des portraits de personnes en noir et blanc avec un effet de « glitch » qui sont recouverts sur les murs en entiers. Ces individus semblent être dans un autre monde. Le guide explique aux visiteurs l’œuvre de l’artiste et l’exploration sur la transcendance que l’artiste veut démontrer. 
 
+&nbsp;
 ![photo](media/mise_en_espace_vue_05.jpg)
 
 Dans la mise en espace, les visiteurs peuvent se promener ou s’asseoir sur les bancs ou les estrades pour regarder les installations vidéos projetées. Aussi, le plancher et les bancs sont couverts de tapis.
