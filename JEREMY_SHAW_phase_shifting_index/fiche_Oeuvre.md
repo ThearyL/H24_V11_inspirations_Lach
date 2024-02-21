@@ -38,16 +38,19 @@ Exemple:
 Il y a sept écrans de projecteurs et  sept projecteurs dans la mise en espace. La distances des écrans est séparé de façon égale, 2 à gauche, 3 au milieu et 2 à droite.  Sur le long du mur proche de l’entrer, il y a les estrades. Il y a un trois bancs proches des écrans 2, 4 et 6 pour que le visiteur soit plus absorbé dans l'expérience.
 
 ## Composantes et techniques
-![photo](media/oeuvre_composantes_01.jpg)
-![photo](media/oeuvre_composantes_02.jpg)
-![photo](media/oeuvre_composantes_03.jpg)
-
+### Composantes fournies par l'artiste:
 * 7 écrans de projection
 * 7 projecteurs
 * Gros haut-paleurs
 * Petits haut-parleurs
 * Câbles d'audio
 * Lumières
+  
+![photo](media/oeuvre_composantes_01.jpg)
+![photo](media/oeuvre_composantes_02.jpg)
+![photo](media/oeuvre_composantes_03.jpg)
+
+
 
 ## Éléments nécessaires à la mise en exposition
 * Panneaux acoustiques
@@ -73,10 +76,12 @@ Dans la mise en espace, les visiteurs peuvent se promener ou s’asseoir sur les
 Au début des vidéos des installations, chaque groupe parle de leur expérience et effectu chacun leurs propres exercices, dances et thérapies. Personnellement, à ce moment-ci j'étais confu et je ne savais pas quoi trop faire dans la mise en espace.
 
 À un moment, les movements des groupes sont en synchronisation et le volume augmente. J'étais captivé quand les groupes étaient en synchronisation.
-
+<div align="center">
+  
 [![vidéo](https://img.youtube.com/vi/MXEfmx3LSqM/0.jpg)](https://www.youtube.com/watch?v=MXEfmx3LSqM)
+</div>
 
-Après un certains temps, comme on peut le voir au début de la vidéo, les lumières clignotent de façon stroboscopique et le son qui sort des haut-parleurs devient sinistres.
+Après un certains temps, comme on peut le voir au début de la vidéo ci-dessus, les lumières clignotent de façon stroboscopique et le son qui sort des haut-parleurs devient sinistres.
 Vers 1:20 min dans la vidéo, les vidéos se transitions dans un effet de "glitch". À ce moment-ci, il y avait un sentiment étrange que je sentais.
 
 ![photo](media/oeuvre_lumieres_neuro.jpg)
