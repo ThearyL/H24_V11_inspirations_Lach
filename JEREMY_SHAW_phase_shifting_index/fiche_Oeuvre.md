@@ -19,7 +19,7 @@
 > -- <cite>(https://macm.org/en/exhibitions/jeremy-shaw/)</cite>
 
 ![photo](media/cartel.jpg)
-<img src="media/mise_en_espace_vue_gauche.jpg" width ="33%"> <img src="media/mise_en_espace_vue_milieu_droite.jpg" width ="33%"> <img src="media/mise_en_espace_vue_04.jpg" width ="33%"> 
+<img src="media/mise_en_espace_vue_gauche.jpg" width ="33%"> <img src="media/mise_en_espace_vue_milieu_droite_00.jpg" width ="33%"> <img src="media/mise_en_espace_vue_droite.jpg" width ="33%"> 
 
 
 
