@@ -66,7 +66,7 @@ Il y a sept écrans de projecteurs et  sept projecteurs dans la mise en espace. 
 
 ## Expérience vécue
 ![photo](media/salle_attente.jpg)
-<p align="right">(capture d'écran prise sur(https://macm.org/en/exhibitions/jeremy-shaw/))</p>
+<p align="right">(Capture d'écran prise sur https://macm.org/en/exhibitions/jeremy-shaw/)</p>
 Avant de rentrer, les visiteurs doivent enlèver leurs chaussures ou les couvrirent avec des platics bleu. Les visiteurs sont accueillis dans une salle avec des portraits de personnes en noir et blanc avec un effet de « glitch » qui sont recouverts sur les murs en entiers. Ces individus semblent être dans un autre monde. Le guide explique aux visiteurs l’œuvre de l’artiste et l’exploration sur la transcendance que l’artiste veut démontrer. 
 
 &nbsp;
