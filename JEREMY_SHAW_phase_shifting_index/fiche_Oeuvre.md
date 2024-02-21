@@ -99,5 +99,7 @@ Un aspect que je feriez autrement c'est de raccourcir le début des vidéos où 
 
 ### Références
 http://www.fonderiedarling.org/
+
 https://macm.org/en/exhibitions/jeremy-shaw/
+
 http://patenteux.com/wp/portfolio/liminal-tech-sheet-en/
