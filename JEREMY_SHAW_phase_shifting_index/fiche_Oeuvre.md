@@ -83,7 +83,7 @@ Au début des vidéos des installations, chaque groupe parle de leur expérience
 Après un certains temps, comme on peut le voir au début de la vidéo ci-dessus, les lumières clignotent de façon stroboscopique et le son qui sort des haut-parleurs devient sinistres.
 Vers 1:20 min de la vidéo, les vidéos se transitions dans un effet de "glitch". À ce moment-ci, il y avait un sentiment étrange que je sentais.
 
-![photo](media/oeuvre_lumieres_bleu_mauve_neuro.jp)
+![photo](media/oeuvre_eclairage_bleu_mauve.jpg)
 
 Ensuite, les vidéos se transitionnes dans un moment euphorique et les lumières changes couleurs comme on peut voir sur l'image ci-dessus. Je me sentais calme à ce moment-ci.
 
