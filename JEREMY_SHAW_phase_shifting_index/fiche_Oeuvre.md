@@ -19,21 +19,23 @@
 > -- <cite>(https://macm.org/en/exhibitions/jeremy-shaw/)</cite>
 
 ![photo](media/cartel.jpg)
-![photo](media/mise_en_espace_vue_02.jpg)
-![photo](media/mise_en_espace_vue_03.jpg)
-![photo](media/mise_en_espace_vue_04.jpg)
- 
+<img src="media/mise_en_espace_vue_02.jpg" width ="33%"> <img src="media/mise_en_espace_vue_03.jpg" width ="33%"> <img src="media/mise_en_espace_vue_04.jpg" width ="33%"> 
+
+
+
 
 ## Type d'installation
-Installation Immersive
-[![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws)
+Installation immersive
+
+Exemple:
+
+[![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws )
 
 ## Mise en espace
+![photo](media/oeuvre_composantes_01.jpg)
 ![photo](media/croquis_plan_mise_en_espace.jpg)
 
-![photo](media/oeuvre_composantes_01.jpg)
-
-Il y a sept écrans dans la mise en espace. La distances des écrans est séparé de façon égale, 2 à gauche, 3 au milieu et 2 à droite.  Sur le long du mur proche de l’entrer, il y a les estrades. Il y a un trois bancs proches des écrans 2, 4 et 6 pour que le visiteur soit plus absorbé dans l'expérience.
+Il y a sept écrans de projecteurs et  sept projecteurs dans la mise en espace. La distances des écrans est séparé de façon égale, 2 à gauche, 3 au milieu et 2 à droite.  Sur le long du mur proche de l’entrer, il y a les estrades. Il y a un trois bancs proches des écrans 2, 4 et 6 pour que le visiteur soit plus absorbé dans l'expérience.
 
 ## Composantes et techniques
 ![photo](media/oeuvre_composantes_01.jpg)
