@@ -43,7 +43,7 @@ Il y a sept écrans de projecteurs et  sept projecteurs dans la mise en espace. 
 * 7 projecteurs
 * Gros haut-paleurs
 * Petits haut-parleurs
-* Câbles d'audio
+* Câbles audio
 * Lumières
   
 ![photo](media/oeuvre_composantes_00.jpg)
@@ -67,7 +67,7 @@ Il y a sept écrans de projecteurs et  sept projecteurs dans la mise en espace. 
 ## Expérience vécue
 ![photo](media/salle_attente.jpg)
 <p align="right">(Capture d'écran prise sur https://macm.org/en/exhibitions/jeremy-shaw/)</p>
-Avant de rentrer, les visiteurs doivent enlèver leurs chaussures ou les couvrirent avec des platics bleu. Les visiteurs sont accueillis dans une salle avec des portraits de personnes en noir et blanc avec un effet de « glitch » qui sont recouverts sur les murs en entiers. Ces individus semblent être dans un autre monde. Le guide explique aux visiteurs l’œuvre de l’artiste et l’exploration sur la transcendance que l’artiste veut démontrer. 
+Avant de rentrer, les visiteurs doivent enlèver leurs chaussures ou les couvrirent avec des platics bleu. Les visiteurs sont accueillis dans une salle avec des portraits de personnes en noir et blanc avec un effet de «glitch» qui sont recouverts sur les murs en entiers. Ces individus semblent être dans un autre monde. Le guide explique aux visiteurs l’œuvre de l’artiste et l’exploration sur la transcendance que l’artiste veut démontrer. 
 
 &nbsp;
 ![photo](media/mise_en_espace_vue_milieu_droite_01.jpg)
@@ -81,7 +81,7 @@ Au début des vidéos des installations, chaque groupe parle de leur expérience
 </div>
 
 Après un certains temps, comme on peut le voir au début de la vidéo ci-dessus, les lumières clignotent de façon stroboscopique et le son qui sort des haut-parleurs devient sinistres.
-Vers 1:20 min de la vidéo, les vidéos se transitions dans un effet de "glitch". À ce moment-ci, il y avait un sentiment étrange que je sentais.
+Vers 1:20 min de la vidéo, les vidéos se transitions dans un effet de «glitch». À ce moment-ci, il y avait un sentiment étrange que je sentais.
 
 ![photo](media/oeuvre_eclairage_bleu_mauve_00.jpg)
 
