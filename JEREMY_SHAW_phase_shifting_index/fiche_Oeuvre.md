@@ -98,3 +98,6 @@ Ce qui m'a plu est le fait que chaque film pour chaque installation était diff�
 Un aspect que je feriez autrement c'est de raccourcir le début des vidéos où il ne passe grand chose pour ajouter du temps dans l'expérience euphorique. Je comprends que l'artiste voulait que les visiteurs prennent le temps de s'immerser dans les oeuvres et ne pas trop les basculer soudainement. Par contre, les meilleurs moments étaient les moments de transcendances et euphoriques, donc si il avait ajouter une autre scène intensive ça aurait améliorer l'expérience et ça aurait plus basculer les visiteurs à la fin.
 
 ### Références
+http://www.fonderiedarling.org/
+https://macm.org/en/exhibitions/jeremy-shaw/
+http://patenteux.com/wp/portfolio/liminal-tech-sheet-en/
