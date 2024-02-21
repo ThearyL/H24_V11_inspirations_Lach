@@ -48,7 +48,7 @@ Il y a sept écrans de projecteurs et  sept projecteurs dans la mise en espace. 
   
 ![photo](media/oeuvre_composantes_00.jpg)
 ![photo](media/oeuvre_composantes_01.jpg)
-![photo](media/oeuvre_composantes_03.jpg)
+![photo](media/oeuvre_eclairage_bleu_mauve_01.jpg)
 
 
 
@@ -83,7 +83,7 @@ Au début des vidéos des installations, chaque groupe parle de leur expérience
 Après un certains temps, comme on peut le voir au début de la vidéo ci-dessus, les lumières clignotent de façon stroboscopique et le son qui sort des haut-parleurs devient sinistres.
 Vers 1:20 min de la vidéo, les vidéos se transitions dans un effet de "glitch". À ce moment-ci, il y avait un sentiment étrange que je sentais.
 
-![photo](media/oeuvre_eclairage_bleu_mauve.jpg)
+![photo](media/oeuvre_eclairage_bleu_mauve_00.jpg)
 
 Ensuite, les vidéos se transitionnes dans un moment euphorique et les lumières changes couleurs comme on peut voir sur l'image ci-dessus. Je me sentais calme à ce moment-ci.
 
