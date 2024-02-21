@@ -8,7 +8,7 @@
 ### Date de la visite: 31 janvier 2024
 
 ## Phase Shifting Index
-![photo](media/mise_en_espace_vue_01.jpg)
+![photo](media/mise_en_espace_vue_milieu.jpg)
 ### Nom de l'artiste : Jeremy Shaw
 
 ### Année de réalisation: 2020
