@@ -70,7 +70,7 @@ Il y a sept écrans de projecteurs et  sept projecteurs dans la mise en espace. 
 Avant de rentrer, les visiteurs doivent enlèver leurs chaussures ou les couvrirent avec des platics bleu. Les visiteurs sont accueillis dans une salle avec des portraits de personnes en noir et blanc avec un effet de « glitch » qui sont recouverts sur les murs en entiers. Ces individus semblent être dans un autre monde. Le guide explique aux visiteurs l’œuvre de l’artiste et l’exploration sur la transcendance que l’artiste veut démontrer. 
 
 &nbsp;
-![photo](media/mise_en_espace_vue_05.jpg)
+![photo](media/mise_en_espace_vue_milieu_droite_01.jpg)
 
 Dans la mise en espace, les visiteurs peuvent se promener ou s’asseoir sur les bancs ou les estrades pour regarder les installations vidéos projetées. Aussi, le plancher et les bancs sont couverts de tapis.
 
