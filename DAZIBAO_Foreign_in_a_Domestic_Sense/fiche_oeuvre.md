@@ -2,7 +2,7 @@
 
 ### Lieu de mise en exposition: Galerie Dazibao - 5455, avenue de Gaspé, espace 109 (RC) Montréal, Québec
 ![image par[Fonderie Darling](http://www.fonderiedarling.org/)](media/edifice_fonderie_darling.jpg)
-<p align="right">(Image prise sur http://www.fonderiedarling.org/)</p>
+
 
 ### Type d'exposition: temporaire - intérieure (8 février au 30 mars 2024)
 ### Date de la visite: 28 février 2024
