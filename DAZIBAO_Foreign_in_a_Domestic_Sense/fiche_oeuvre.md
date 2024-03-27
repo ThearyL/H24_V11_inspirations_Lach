@@ -16,9 +16,9 @@ Selfie            |  Extérieur de la galerie
 ### Année de réalisation: 2021
 
 ## Description de l'oeuvre 
-> «Installation à 4 canaux avec son (vidéo 4k, Hi8 et HD avec film Super 8 développer à la main). Couverture d'urgence.»^1
+> «Installation à 4 canaux avec son (vidéo 4k, Hi8 et HD avec film Super 8 développer à la main). Couverture d'urgence.»¹
 >
-> -- <cite>(https://macm.org/en/exhibitions/jeremy-shaw/)</cite>
+> -- <cite>¹DAZIBAO, «Foreign in a Domestic Sense», Sofía Gallisá Muriente & Natalia Lassalle-Morillo, 2021, 32 min.</cite>
 
 
 Cartel de l'oeuvre à l'entré            |  Cartel de l'oeuvre principal
