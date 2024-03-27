@@ -32,14 +32,17 @@ Cartel de l'oeuvre à l'entré            |  Cartel de l'oeuvre principal
 
 ## Type d'installation
 Installation immersive
-
+![photo](media/composante_ancrage_a_projecteur_vue_plafond.jpg)
 Exemple vidéo:
 
 [![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws )
 
+## Fonction du dispositif multimédia
+
 ## Mise en espace
 ![photo](media/oeuvre_composantes_01.jpg)
 ![photo](media/croquis_plan_mise_en_espace.jpg)
+![photo](media/plan_galerie.png)
 
 Il y a sept écrans de projecteurs et sept projecteurs dans la mise en espace. La distance des écrans est séparée de façon égale, 2 à gauche, 3 au milieu et 2 à droite. Sur le long du mur proche de l’entrer, il y a les estrades. Il y a trois bancs proches des écrans 2, 4 et 6 pour que le visiteur soit plus absorbé dans l'expérience. 
 
