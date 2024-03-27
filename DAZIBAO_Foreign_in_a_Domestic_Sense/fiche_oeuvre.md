@@ -10,7 +10,7 @@ Selfie            |  Extérieur de la galerie
 ### Date de la visite: 28 février 2024
 
 ## Foreign in a Domestic Sense
-![photo](media/mise_en_espace_vue_milieu.jpg)
+![photo](media/oeuvre_vue_ensemble.jpg)
 ### Nom des artiste : Sofía Gallisá Muriente & Natalia Lassalle-Morillo
 
 ### Année de réalisation: 2021
