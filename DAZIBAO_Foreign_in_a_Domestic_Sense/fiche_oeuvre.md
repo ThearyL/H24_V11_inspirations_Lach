@@ -3,7 +3,7 @@
 ### Lieu de mise en exposition: Galerie Dazibao - 5455, avenue de Gaspé, espace 109 (RC) Montréal, Québec
 Selfie            |  Extérieur de la galerie
 :-------------------------:|:-------------------------:
-![photo](media/galerie_vue_devant.jpg)  |  ![photo](media/galerie_vue_exterieur.jpg)
+![photo](media/galerie_selfie_vue_devant.jpg)  |  ![photo](media/galerie_vue_exterieur.jpg)
 
 
 ### Type d'exposition: temporaire - intérieure (8 février au 30 mars 2024)
