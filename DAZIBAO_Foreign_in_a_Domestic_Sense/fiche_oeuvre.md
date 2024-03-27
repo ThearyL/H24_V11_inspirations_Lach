@@ -16,7 +16,7 @@ Selfie            |  Extérieur de la galerie
 ### Année de réalisation: 2021
 
 ## Description de l'oeuvre 
-> Vaste installation vidéo immersive à sept canaux, Phase Shifting Index [Index d’états de transition] est une rêverie parascientifique exaltante d’une grande ambition intellectuelle et artistique, et le point culminant des travaux récents de Shaw. Dans ce qui semble être une étude anthropologique d’un futur lointain, une narration commente de manière rétrospective l’émergence de nouvelles réalités déconcertantes sur sept écrans affichant ce qui s’avère être des images d’archives de divers groupes de thérapie par le mouvement des années 60 aux années 90. Ces images sont captées dans les formats de l’époque – allant du film 16 mm au VHS en passant par le Hi-8.
+> «Installation à 4 canaux avec son (vidéo 4k, Hi8 et HD avec film Super 8 développer à la main). Couverture d'urgence.»^1
 >
 > -- <cite>(https://macm.org/en/exhibitions/jeremy-shaw/)</cite>
 
