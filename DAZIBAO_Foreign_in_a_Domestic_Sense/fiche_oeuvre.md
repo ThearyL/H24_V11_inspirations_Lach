@@ -20,7 +20,10 @@ Selfie            |  Extérieur de la galerie
 >
 > -- <cite>(https://macm.org/en/exhibitions/jeremy-shaw/)</cite>
 
-![photo](media/cartel.jpg)
+
+Cartel de l'oeuvre à l'entré            |  Cartel de l'oeuvre principal
+:-------------------------:|:-------------------------:
+![photo](media/cartel_oeuvre_entre.jpg)  |  ![photo](media/cartel_oeuvre_principal.jpg)
 <img src="media/mise_en_espace_vue_gauche.jpg" width ="33%"> <img src="media/mise_en_espace_vue_milieu_droite_00.jpg" width ="33%"> <img src="media/mise_en_espace_vue_droite.jpg" width ="33%"> 
 
 
