@@ -24,7 +24,8 @@ Selfie            |  Extérieur de la galerie
 Cartel de l'oeuvre à l'entré            |  Cartel de l'oeuvre principal
 :-------------------------:|:-------------------------:
 ![photo](media/cartel_oeuvre_entre.jpg)  |  ![photo](media/cartel_oeuvre_principal.jpg)
-<img src="media/mise_en_espace_vue_gauche.jpg" width ="33%"> <img src="media/mise_en_espace_vue_milieu_droite_00.jpg" width ="33%"> <img src="media/mise_en_espace_vue_droite.jpg" width ="33%"> 
+
+<img src="media/oeuvre_entre_avant_oeuvre_principal.jpg" width ="33%"> <img src="media/oeuvre_moment_finale.jpg" width ="33%"> <img src="media/oeuvre_projection_sur_mur_mobile.jpg" width ="33%"> 
 
 
 
