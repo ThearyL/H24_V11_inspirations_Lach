@@ -48,15 +48,13 @@ Il y a sept écrans de projecteurs et sept projecteurs dans la mise en espace. L
 
 ## Composantes et techniques
 ### L'artiste a utilisé:
-* 7 écrans de projection
-* 7 projecteurs
-* Gros haut-paleurs
-* Petits haut-parleurs
-* Films en VHS
-* Câbles audio et vidéos
+* Couvertures d'urgence
+* 5 bean bags
+* Films Super 8
+* Disque dur/clée USB
 * Lumières
 
- 
+ ![photo](media/composante_couverture_argente_vue_entre.jpg)
 ![photo](media/composante_equipement_vue_ensemble.jpg)
 ![photo](media/composante_chaisse_pouf_vue_ensemble.jpg)
 ![photo](media/composante_plancher_argente_vue_gauche.jpg)
@@ -65,13 +63,12 @@ Il y a sept écrans de projecteurs et sept projecteurs dans la mise en espace. L
 
 ## Éléments nécessaires à la mise en exposition
 * Panneaux acoustiques
-* Tapis
-* Bancs
+* 4 Projecteurs
 * Câbles et adapteurs
 * Barres en métal attachées au plafond
 * Barres de soutien pour les lumières
-* Soutiens pour haut-parleurs
-* Soutiens pour projecteurs
+* Ancrage pour haut-parleurs
+* Ancrage pour projecteurs
 * Ordinateur
   
 
