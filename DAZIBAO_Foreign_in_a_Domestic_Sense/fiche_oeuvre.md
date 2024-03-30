@@ -55,7 +55,8 @@ Il y a sept écrans de projecteurs et sept projecteurs dans la mise en espace. L
 * Films en VHS
 * Câbles audio et vidéos
 * Lumières
-  
+
+<img src="media/composante_equipement_vue_ensemble.jpg" width ="33%"> <img src="media/composante_chaisse_pouf_vue_ensemble.jpg" width ="33%"> <img src="(media/composante_plancher_argente_vue_gauche.jpg" width ="33%">   
 ![photo](media/composante_equipement_vue_ensemble.jpg)
 ![photo](media/composante_chaisse_pouf_vue_ensemble.jpg)
 ![photo](media/composante_plancher_argente_vue_gauche.jpg)
