@@ -44,7 +44,7 @@ Exemple vidéo:
 ![photo](media/oeuvre_vue_gauche.jpg)
 ![photo](media/plan_galerie.png)
 
-Il y a sept écrans de projecteurs et sept projecteurs dans la mise en espace. La distance des écrans est séparée de façon égale, 2 à gauche, 3 au milieu et 2 à droite. Sur le long du mur proche de l’entrer, il y a les estrades. Il y a trois bancs proches des écrans 2, 4 et 6 pour que le visiteur soit plus absorbé dans l'expérience. 
+Proche de l'entré de la galerie, le visiteur est acceuil par des couvertures d'urgences illuminées par une lumière bleu. Après avoir passer à travers les couvertures d'urgences, le visiteur peut voir l'oeuvre projecté de 4 différentes façons. Il y a 2 projections devant le visiteur et 2 à sa gauche. Le visiteur peut s'asseoir sur 1 des 5 «bean bags». Sur la gauche du visiteur, il y a une couverture d'urgence sur le plancher.
 
 ## Composantes et techniques
 ### L'artiste a utilisé:
@@ -68,6 +68,7 @@ Il y a sept écrans de projecteurs et sept projecteurs dans la mise en espace. L
 * Ancrage pour haut-parleurs
 * Ancrage pour projecteurs
 * Ordinateur
+* Caneaux avec son
 * Mur déplaçable
   
 
