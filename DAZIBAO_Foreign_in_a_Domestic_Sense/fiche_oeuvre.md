@@ -40,7 +40,7 @@ Exemple vidéo:
 ## Fonction du dispositif multimédia
 
 ## Mise en espace
-![photo](media/oeuvre_composantes_01.jpg)
+![photo](media/oeuvre_vue_assis.jpg)
 ![photo](media/croquis_plan_mise_en_espace.jpg)
 ![photo](media/plan_galerie.png)
 
