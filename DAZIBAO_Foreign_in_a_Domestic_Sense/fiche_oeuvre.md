@@ -52,7 +52,7 @@ Il y a sept écrans de projecteurs et sept projecteurs dans la mise en espace. L
 * 5 bean bags
 * Films Super 8
 * Disque dur/clée USB
-* Lumières
+* Lumière bleu
 
  ![photo](media/composante_couverture_argente_vue_entre.jpg)
 ![photo](media/composante_equipement_vue_ensemble.jpg)
@@ -65,11 +65,10 @@ Il y a sept écrans de projecteurs et sept projecteurs dans la mise en espace. L
 * Panneaux acoustiques
 * 4 Projecteurs
 * Câbles et adapteurs
-* Barres en métal attachées au plafond
-* Barres de soutien pour les lumières
 * Ancrage pour haut-parleurs
 * Ancrage pour projecteurs
 * Ordinateur
+* Mur déplaçable
   
 
 ## Expérience vécue
