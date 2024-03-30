@@ -56,8 +56,8 @@ Il y a sept écrans de projecteurs et sept projecteurs dans la mise en espace. L
 * Câbles audio et vidéos
 * Lumières
   
-![photo](media/oeuvre_composantes_00.jpg)
-![photo](media/oeuvre_composantes_01.jpg)
+![photo](media/composante_equipement_vue_esemble.jpg)
+![photo](mediacomposante_chaisse_pouf_vue_ensemble.jpg)
 ![photo](media/oeuvre_eclairage_bleu_mauve_01.jpg)
 
 
