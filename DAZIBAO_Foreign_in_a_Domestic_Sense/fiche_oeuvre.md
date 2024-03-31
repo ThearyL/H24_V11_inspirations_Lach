@@ -103,6 +103,5 @@ Ce qui m'a plu est le fait que l'oeuvre était projecté de 4 différentes persp
 
 
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Un aspect que je ferai autrement c'est de raccourcir le début des vidéos où il ne passe pas grand-chose pour ajouter du temps dans l'expérience euphorique. Je comprends que l'artiste voulait que les visiteurs prennent le temps de s'immerger dans les œuvres et ne pas trop les basculer soudainement. Par contre, les meilleurs moments étaient les moments de transcendances et euphoriques, donc s’il avait ajouté une autre scène intensive ça aurait amélioré l'expérience et ça aurait plus basculé les visiteurs à la fin.
-
+Un aspect que je ferai autrement c'est d'ajouter plus découration et faire des jeux de lumières pour se sentir que on est dans une autre planète. La salle où se trouve la projection de l'oeuvre est presque vide et j'ai bien aimé le passage avec les couvetures d'urgences au début. Les décorations seront en liens avec l'espace et les jeux de lumières sont en lien avec la vidéos. L'expérience serait plus immersive de cette façon pour les vititeurs.
 ## Références
