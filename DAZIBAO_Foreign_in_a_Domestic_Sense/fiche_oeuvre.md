@@ -75,7 +75,7 @@ Proche de l'entré de la galerie, le visiteur est acceuil par des couvertures d'
 ## Expérience vécue
 ![photo](media/salle_attente.jpg)
 <p align="right">(Capture d'écran prise sur https://macm.org/en/exhibitions/jeremy-shaw/)</p>
-Avant de rentrer, les visiteurs doivent enlever leurs chaussures ou les couvrir avec du plastic. Les visiteurs sont accueillis dans une salle avec des portraits de personnes en noir et blanc avec un effet de «glitch» qui est recouvert sur les murs en entier. Ces individus semblent être dans un autre monde. Le guide explique aux visiteurs l’œuvre de l’artiste et l’exploration sur la transcendance que l’artiste veut démontrer.
+Le visiteur est acceuili par des couvertures d'urgences qui sont éclairés par une lumière bleu. On dirait je rentrais dans une fusée spatiale. Après avoir traversé les couvertures d'urgences, le visiteur peut voir l'oeuvre est projecté sur 4 différents murs. L'oeuvre projecte un genre de documentaire de 4 différentes façcons. 1 devant, 1 à droite et 2 à gauche. Dans un coin à gauche, il y avait une couverture d'urgence sur le plance et la projection de l'oeuvre. Le documentaire parle de l'expérience des artistes qui immigrent de Porto Rico à la Floride centrale. Il y avait 5 «bean bags» à terre qu'on pouvait s'asseoir dessus et regarde les projections de l'oeuvre qui dure 32 minutes.
 
 &nbsp;
 ![photo](media/mise_en_espace_vue_milieu_droite_01.jpg)
