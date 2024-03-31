@@ -70,19 +70,18 @@ Proche de l'entré de la galerie, le visiteur est acceuil par des couvertures d'
 * Ordinateur
 * Caneaux avec son
 * Mur déplaçable
+* Murs noir
   
 
 ## Expérience vécue
 ![photo](media/salle_attente.jpg)
 <p align="right">(Capture d'écran prise sur https://macm.org/en/exhibitions/jeremy-shaw/)</p>
-Le visiteur est acceuili par des couvertures d'urgences qui sont éclairés par une lumière bleu. On dirait je rentrais dans une fusée spatiale. Après avoir traversé les couvertures d'urgences, le visiteur peut voir l'oeuvre est projecté sur 4 différents murs. L'oeuvre projecte un genre de documentaire de 4 différentes façcons. 1 devant, 1 à droite et 2 à gauche. Dans un coin à gauche, il y avait une couverture d'urgence sur le plance et la projection de l'oeuvre. Le documentaire parle de l'expérience des artistes qui immigrent de Porto Rico à la Floride centrale. Il y avait 5 «bean bags» à terre qu'on pouvait s'asseoir dessus et regarde les projections de l'oeuvre qui dure 32 minutes.
+Le visiteur est acceuili par des couvertures d'urgences qui sont éclairés par une lumière bleu. On dirait je rentrais dans une fusée spatiale. Après avoir traversé les couvertures d'urgences, le visiteur peut voir l'oeuvre est projecté sur 4 différents murs. L'oeuvre projecte un genre de documentaire de 4 différentes façcons. 1 devant, 1 à droite et 2 à gauche. Dans un coin à gauche, il y avait une couverture d'urgence sur le plancher, deux murs noirs et la projection de l'oeuvre. Le documentaire parle de l'expérience des artistes qui immigrent de Porto Rico à la Floride centrale. Il y avait 5 «bean bags» à terre qu'on pouvait s'asseoir dessus et regarder les projections de l'oeuvre qui dure 32 minutes.
 
 &nbsp;
 ![photo](media/mise_en_espace_vue_milieu_droite_01.jpg)
 
-Dans la mise en espace, les visiteurs peuvent se promener ou s’asseoir sur les bancs ou les estrades pour regarder les installations vidéos projetées. Aussi, le plancher et les bancs sont couverts de tapis.
 
-Au début des vidéos des installations, chaque groupe parle de leur expérience et effectue chacun leurs propres exercices, danses et thérapies. Personnellement, à ce moment-ci j'étais confus et je ne savais pas quoi trop faire dans la mise en espace. À un moment, les mouvements des groupes sont en synchronisation et le volume augmente. J'étais captivé quand les groupes étaient en synchronisation.
 <div align="center">
   
 [![vidéo](https://img.youtube.com/vi/MXEfmx3LSqM/0.jpg)](https://www.youtube.com/watch?v=MXEfmx3LSqM)
