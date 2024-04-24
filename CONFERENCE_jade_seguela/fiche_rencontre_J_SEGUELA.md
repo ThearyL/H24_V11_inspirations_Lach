@@ -13,3 +13,9 @@ En conclusion, j’ai bien aimé la conférence, parce que Jade Séguéla nous a
 <p align="center">
 <img src= "media/oeuvre_descending_a_parametric_staircase_san_francisco_2023.jpg"/>
 </p>
+<p align="center">
+ Rafael Lozano-Hemmer, "Descending a Parametric Staircase", 2023, bitforms gallery, San Francisco, California, United States
+</p>
+<p align="center">
+ (source: https://www.lozano-hemmer.com/)
+</p>
