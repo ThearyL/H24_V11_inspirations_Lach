@@ -43,6 +43,7 @@ Exemple vidéo:
 ![photo](media/oeuvre_vue_assis.jpg)
 ![photo](media/oeuvre_vue_gauche.jpg)
 ![photo](media/plan_galerie.png)
+(source:https://en.dazibao.art/)
 
 Proche de l'entré de la galerie, le visiteur est acceuil par des couvertures d'urgences illuminées par une lumière bleu. Après avoir passer à travers les couvertures d'urgences, le visiteur peut voir l'oeuvre projecté de 4 différentes façons. Il y a 2 projections devant le visiteur et 2 à sa gauche. Le visiteur peut s'asseoir sur 1 des 5 «bean bags». Sur la gauche du visiteur, il y a une couverture d'urgence sur le plancher.
 
