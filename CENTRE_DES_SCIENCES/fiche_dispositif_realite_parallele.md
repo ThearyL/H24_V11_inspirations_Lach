@@ -1,28 +1,27 @@
-# *Sofía Gallisá Muriente & Natalia Lassalle-Morillo: Foreign in a Domestic Sense*
+# *Explore - La science des grands*
 ![photo](media/oeuvre_affiche.jpg)
-### Lieu de mise en exposition: Centre des sciences - 5455, avenue de Gaspé, espace 109 (RC) Montréal, Québec
+### Lieu de mise en exposition: Centre des sciences - 2 Rue de la Commune O, Montréal QC H2Y 4B2
 Selfie            |  Extérieur de la galerie
 :-------------------------:|:-------------------------:
-![photo](media/galerie_selfie_vue_devant.jpg)  |  ![photo](media/galerie_vue_exterieur.jpg)
+![photo](media/selfie.jpg)  |  ![photo](media/galerie_vue_exterieur.jpg)
 
 
 ### Type d'exposition: permanente - intérieure 
 ### Date de la visite: 10 avril 2024
 
-## Foreign in a Domestic Sense
+## Réalité parallèle
 ![photo](media/oeuvre_vue_ensemble.jpg)
-### Nom des artiste : Sofía Gallisá Muriente & Natalia Lassalle-Morillo
+### Nom de la firme : TKNL
 
-### Année de réalisation: 2021
+### Année de réalisation: 2019
 
-## Description de l'oeuvre 
-> «Installation à 4 canaux avec son (vidéo 4k, Hi8 et HD avec film Super 8 développer à la main). Couverture d'urgence.»¹
+## Description du dispositif
+> «La réalité augmentée permet d'ajouter une couche d'information sur ce qui nous entoure. Grâce à elle, on peut dépasser les limites du reél.»¹
 >
-> -- <cite>¹DAZIBAO, «Foreign in a Domestic Sense», Sofía Gallisá Muriente & Natalia Lassalle-Morillo, 2021, 32 min.</cite>
+> -- <cite>¹Centre des sciences de Montréal, «Réalité parallèle», TKNL, 2019</cite>
 
 
-Cartel de l'oeuvre à l'entré            |  Cartel de l'oeuvre principal
-:-------------------------:|:-------------------------:
+Présentation du dispositif           
 ![photo](media/cartel_oeuvre_entre.jpg)  |  ![photo](media/cartel_oeuvre_principal.jpg)
 
 <img src="media/oeuvre_entre_avant_oeuvre_principal.jpg" width ="33%"> <img src="media/oeuvre_moment_finale.jpg" width ="33%"> <img src="media/oeuvre_projection_sur_mur_mobile.jpg" width ="33%"> 
@@ -31,7 +30,7 @@ Cartel de l'oeuvre à l'entré            |  Cartel de l'oeuvre principal
 
 
 ## Type d'installation
-Installation immersive
+Installation intéractive et un peu immersive
 ![photo](media/composante_ancrage_a_projecteur_vue_plafond.jpg)
 Exemple vidéo:
 
@@ -45,10 +44,10 @@ Exemple vidéo:
 ![photo](media/plan_galerie.png)
 (source: https://en.dazibao.art/)
 
-Proche de l'entré de la galerie, le visiteur est acceuil par des couvertures d'urgences illuminées par une lumière bleu. Après avoir passer à travers les couvertures d'urgences, le visiteur peut voir l'oeuvre projecté de 4 différentes façons. Il y a 2 projections devant le visiteur et 2 à sa gauche. Le visiteur peut s'asseoir sur 1 des 5 «bean bags». Sur la gauche du visiteur, il y a une couverture d'urgence sur le plancher.
+Proche des dispositifs en collaboration avec Ubisoft, le visiteur est acceuil par des couvertures d'urgences illuminées par une lumière bleu. Après avoir passer à travers les couvertures d'urgences, le visiteur peut voir l'oeuvre projecté de 4 différentes façons. Il y a 2 projections devant le visiteur et 2 à sa gauche. Le visiteur peut s'asseoir sur 1 des 5 «bean bags». Sur la gauche du visiteur, il y a une couverture d'urgence sur le plancher.
 
 ## Composantes et techniques
-### L'artiste a utilisé:
+### La firme a utilisée:
 * Couvertures d'urgence
 * 5 bean bags
 * Films Super 8
