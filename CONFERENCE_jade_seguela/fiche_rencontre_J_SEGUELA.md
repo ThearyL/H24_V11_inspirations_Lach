@@ -10,6 +10,6 @@ Finalement, Jade Séguéla parle d’une étude de cas en lien avec leur œuvre 
 
 
 En conclusion, j’ai bien aimé la conférence, parce que Jade Séguéla nous a démontré l’importance de la documentation d’une œuvre ou d'un dispositif numérique présenté hors du pays. La réalisation des œuvres serait difficile sans la production de ses documentations même presque impossible. Aussi, j’apprécie beaucoup Rafael Lozan-Hemmer qui met l’importance sur la conservation des arts.
-
+<p align="center">
 ![photo](media/oeuvre_descending_a_parametric_staircase_san_francisco_2023.jpg)
-
+</p>
