@@ -40,15 +40,15 @@ Exemple vidéo:
 [![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws )
 
 ## Fonction du dispositif multimédia
-L'intéracteur doit visé la caméra vers les cinq marqeurs qui se trouvent un partout dans la mise en espace. Un ordinateur, un microcontrôleur et les cables sont placés dans un cabinet en-dessus de l'écran.
+L'intéracteur doit visé la caméra vers les cinq marqeurs qui se trouvent un partout dans la mise en espace.
 
 Caméra en arrière du dispositif| 
 :-------------------------:|
 ![photo](media/composante_camera_vue_arriere.jpg)
 
-Intérieur du cabinet| 
-:-------------------------:|
-![photo](media/composante_equipement_vue_arriere_interieure.jpg)
+Marqueurs| Marqueur au plafond
+:-------------------------:| :-------------------------:|
+![photo](media/dispositif_vue_ensemble_milieu_proche.jpg) | ![photo](media/composante_marqueur_vue_plafond.jpg)
 
 Interface du dispositif qui explique l'objectif et le contrôle du dispositif | 
 :-------------------------:|
