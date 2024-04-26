@@ -84,7 +84,7 @@ Proche des dispositifs en collaboration avec Ubisoft, les dispositifs (placés �
 * Microcontôleur
 * Caméra
 * Disque dur/clée USB
-* Marqeur forme d'étoile
+* Marqeurs en forme d'étoile
 
 Composantes dans un cabinet en-dessous de l'écran| 
 :-------------------------:|
@@ -109,9 +109,9 @@ Les dispositifs de «Réalité parallèle» sont placés dans la deuxièmes sect
 
 
 ## Ce qui vous a plu, vous a donné des idées
-Ce qui m'a plu est le fait que l
+Ce qui m'a plu est le fait que le dispositif a utilisé des marqueurs d'identification en forme d'étoile pour trouver les bestioles avec la caméra. Pour mes prochaines créations multimédias, je pourrais utiliser une caméra et des marqueurs avec des formes spécifiques ou des couleurs spécifiques pour créer un jeu ou un art numérique.
 
 
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Un aspect que je ferai autrement c'est d'ajouter 
+Un aspect que je ferai autrement est de redesigner la boite verte de l'écran puisque le design est très industriel. Je le redisignerai d'une façon plus futuristique. 
 ## Références
