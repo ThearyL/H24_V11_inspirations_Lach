@@ -24,6 +24,11 @@ Présentation du dispositif        |
 :-------------------------:|
 ![photo](media/dispositif_presentation_realite_parallele.jpg)
 
+Panneau de crédit
+
+<img src="media/panneau_credit_explore_partenaires.jpg" width ="20%"> <img src="media/panneau_credit__explore_equipe_du_projet.jpg" width ="20%"> <img src="media/panneau_credit_explore_conception_realisation.jpg" width ="20%"> <img src="media/panneau_credit__explore_comite_scientifique_capsules_video.jpg" width ="20%">
+
+Vue diverses 
 
 <img src="media/dispositif_vue_ensemble_de_gauche.jpg" width ="33%"> <img src="media/dispositif_vue_ensemble_milieu.jpg" width ="33%"> <img src="media/dispositif_vue_ensemble_de_droite.jpg" width ="33%"> 
 
@@ -94,27 +99,10 @@ Composantes dans un cabinet en-dessous de l'écran|
   
 
 ## Expérience vécue
-![photo](media/salle_attente.jpg)
-<p align="right">(Capture d'écran prise sur https://macm.org/en/exhibitions/jeremy-shaw/)</p>
-Le visiteur est acceuilli par des couvertures d'urgences qui sont éclairés par une lumière bleu. On dirait je rentrais dans une fusée spatiale. Après avoir traversé les couvertures d'urgences, le visiteur peut voir l'oeuvre est projecté sur 4 différents murs. L'oeuvre projecte un genre de documentaire de 4 différentes façcons. 1 devant, 1 à droite et 2 à gauche. Dans un coin à gauche, il y avait une couverture d'urgence sur le plancher, deux murs noirs et la projection de l'oeuvre. Le documentaire parle de l'expérience des artistes qui immigrent de Puerto Rico à la Floride centrale. Il y avait 5 «bean bags» à terre qu'on pouvait s'asseoir dessus et regarder les projections de l'oeuvre qui dure 32 minutes.
+
+
 
 &nbsp;
-![photo](media/mise_en_espace_vue_milieu_droite_01.jpg)
-Dans le documentaire, les artistes ne parlent mais il y a des sous-titres qui sont en espagnole et en français pour montrer leurs pensées. Au début du documentaire, on peut voir un temps d'écoulement, un vaisseau spaciale de la NASA et des personne qui s'apprêttent de monter à bord d'un avion.  Lorsque le temps d'écoulement se rend à zéro, le vaisseau spatiale et l'avion décollent. Dans mon point de vue, c'est comme si les artistes immigrent dans une autre planète. Arrivé en Floride, les artistes se joignent à la communauté locale portoricain et elles montrent leur expérience dans la communauté. Ensuite, elles expliquent qu'elles sont immigrés pour des raisons économiques. Si leur situation économique ne change pas, ça serait au moins un changement de mentalité et de dignité. Elles décident de travailler à Disney Land et elles parlent de leur expérience. L'expérience à Disney Land était supposé être magique, mais pour eux tout était faux. À ce moment l'oeuvre devient tout rouge et sinistre, il y a une voix d'un annonceur pour un voyage. À la fin, on revient à la réalité et les deux artistes sont sous la pluie, et elles se donnent un calin et elles se disent qu'elles ne sont pas véritablement libre. À la fin je me sentait un peu triste pour eux et j'ai senti ce qu'elle voulait démontrer à travers cette oeuvre.
-
-<div align="center">
-  
-[![vidéo](https://img.youtube.com/vi/MXEfmx3LSqM/0.jpg)](https://www.youtube.com/watch?v=MXEfmx3LSqM)
-</div>
-
-Après un certain temps, comme on peut le voir au début de la vidéo ci-dessus, les lumières clignotent de façon stroboscopique et le son qui sort des haut-parleurs devient sinistre.
-Vers 1:20 min de la vidéo, les vidéos se transitionnent dans un effet de «glitch». À ce moment-ci, il y avait un sentiment étrange que je sentais.
-
-![photo](media/oeuvre_eclairage_bleu_mauve_00.jpg)
-
-Ensuite, les vidéos se transitionnent dans un moment euphorique et les lumières changent de couleurs comme on peut voir sur l'image ci-dessus. Je me sentais calme à ce moment-ci.
-
-À la fin, c'était une expérience étrange, mais j'ai bien aimé l'avoir vécue.
 
 
 
