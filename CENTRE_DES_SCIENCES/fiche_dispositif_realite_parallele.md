@@ -40,7 +40,7 @@ Exemple vidéo:
 [![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws )
 
 ## Fonction du dispositif multimédia
-L'intéracteur doit visé la caméra vers les cinq marqeurs qui se trouvent un partout dans la mise en espace.
+L'intéracteur doit visé la caméra vers les cinq marqeurs en forme d'étoile qui se trouvent un peu partout dans la mise en espace.
 
 Caméra en arrière du dispositif| 
 :-------------------------:|
@@ -69,33 +69,28 @@ Interface du jeu | Un texte qui montre lorsque l'intéracteur est proche d'une b
 ![photo](media/plan_galerie.png)
 (source: https://en.dazibao.art/)
 
-Proche des dispositifs en collaboration avec Ubisoft, les dispositifs sont placé d'une façon que les caméras des dispostifs puissent voir une vue large du plafond et des autres dispositifs de la deuxième partie de Explore.
+Proche des dispositifs en collaboration avec Ubisoft, les dispositifs (placés à une hauteur différente d'une de l'autre) sont placé d'une façon que les caméras des dispostifs puissent voir une vue large du plafond et des autres dispositifs de la deuxième partie de Explore.
 
 ## Composantes et techniques
 ### La firme a utilisée:
-* Couvertures d'urgence
-* 5 bean bags
-* Films Super 8
+* Grosse boite verte en métal avec des poignés et un écran
+* Ordinateur
+* Câbles
+* Microcontôleur
+* Caméra
 * Disque dur/clée USB
-* Lumière bleu
+* Marqeur forme d'étoile
 
- ![photo](media/composante_couverture_argente_vue_entre.jpg)
-![photo](media/composante_equipement_vue_ensemble.jpg)
-![photo](media/composante_chaisse_pouf_vue_ensemble.jpg)
-![photo](media/composante_plancher_argente_vue_gauche.jpg)
+Composantes dans un cabinet en-dessous de l'écran| 
+:-------------------------:|
+![photo](media/composante_equipement_vue_arriere_interieure.jpg)
 
 
 
 ## Éléments nécessaires à la mise en exposition
-* Panneaux acoustiques
-* 4 Projecteurs
-* Câbles et adapteurs
-* Ancrage pour haut-parleurs
-* Ancrage pour projecteurs
-* Ordinateur
-* Caneaux avec son
-* Mur déplaçable
-* Murs noir
+* Câbles, adpteurs, alimentation et extension
+* Tuiles du plancher retirables
+* Cabinets pour mettre les composantes
   
 
 ## Expérience vécue
