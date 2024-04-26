@@ -1,16 +1,16 @@
 # *Explore - La science des grands*
 ![photo](media/oeuvre_affiche.jpg)
 ### Lieu de mise en exposition: Centre des sciences - 2 Rue de la Commune O, Montréal QC H2Y 4B2
-Selfie            |  Extérieur de la galerie
-:-------------------------:|:-------------------------:
-![photo](media/selfie.jpg)  |  ![photo](media/galerie_vue_exterieur.jpg)
+Selfie            |  
+:-------------------------:|
+![photo](media/selfie.jpg)
 
 
 ### Type d'exposition: permanente - intérieure 
 ### Date de la visite: 10 avril 2024
 
 ## Réalité parallèle
-![photo](media/oeuvre_vue_ensemble.jpg)
+![photo](media/dispositif_vue_ensemble_milieu_proche.jpg)
 ### Nom de la firme : TKNL
 
 ### Année de réalisation: 2019
@@ -20,11 +20,12 @@ Selfie            |  Extérieur de la galerie
 >
 > -- <cite>¹Centre des sciences de Montréal, «Réalité parallèle», TKNL, 2019</cite>
 
+Présentation du dispositif        | 
+:-------------------------:|
+![photo](media/dispositif_presentation_realite_parallele.jpg)
 
-Présentation du dispositif           
-![photo](media/cartel_oeuvre_entre.jpg)  |  ![photo](media/cartel_oeuvre_principal.jpg)
 
-<img src="media/oeuvre_entre_avant_oeuvre_principal.jpg" width ="33%"> <img src="media/oeuvre_moment_finale.jpg" width ="33%"> <img src="media/oeuvre_projection_sur_mur_mobile.jpg" width ="33%"> 
+<img src="media/dispositif_vue_ensemble_de_gauche.jpg" width ="33%"> <img src="media/dispositif_vue_ensemble_milieu.jpg" width ="33%"> <img src="media/dispositif_vue_ensemble_de_droite.jpg" width ="33%"> 
 
 
 
