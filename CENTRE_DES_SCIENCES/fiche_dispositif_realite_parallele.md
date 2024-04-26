@@ -99,9 +99,9 @@ Composantes dans un cabinet en-dessous de l'écran|
   
 
 ## Expérience vécue
-
-
-
+J'ai
+<div align="center"></div>
+<img src="media/dispositif_interaction_visiteur.jpg" width="50%">
 &nbsp;
 
 
