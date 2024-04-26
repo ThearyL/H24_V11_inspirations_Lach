@@ -26,7 +26,7 @@ Présentation du dispositif        |
 
 Panneau de crédit
 
-<img src="media/panneau_credit_explore_partenaires.jpg" width ="20%"> <img src="media/panneau_credit__explore_equipe_du_projet.jpg" width ="20%"> <img src="media/panneau_credit_explore_conception_realisation.jpg" width ="20%"> <img src="media/panneau_credit__explore_comite_scientifique_capsules_video.jpg" width ="20%">
+<img src="media/panneau_credit_explore_partenaires.jpg" width ="22%"> <img src="media/panneau_credit__explore_equipe_du_projet.jpg" width ="22%"> <img src="media/panneau_credit_explore_conception_realisation.jpg" width ="22%"> <img src="media/panneau_credit__explore_comite_scientifique_capsules_video.jpg" width ="22%">
 
 Vue diverses 
 
