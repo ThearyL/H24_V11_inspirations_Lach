@@ -99,10 +99,12 @@ Composantes dans un cabinet en-dessous de l'écran|
   
 
 ## Expérience vécue
-J'ai
-<div align="center"></div>
+Les dispositifs de «Réalité parallèle» sont placés dans la deuxièmes section de «Explore», proches de dispositifs en collaboration avec Ubisoft. Elles sons placées en direction pour avoir une vue ensemble de la section en entière. Les deux dispositifs sont mis à une hauteur différent pour accommoder à la grandeur de l'intéracteur. L'objectif est de trouvé les cinqs bestioles cachés un peu partout de la mise en espace et il y a un temps limité de 60 secondes. L'intéracteur doit bouger l'écran avec des poignés sur les cotés. Sur l'écran, il a un texte qui va apparaître lorsque la personne est proche de trouver la bestiole. Lorsque l'intéracteur à trouver bestiole, il y a une animation spéciale qui fait apparaître la bestiole. Je trouve que ce dispositif est bien fait et que l'interface et les animations sont cutes.
+
+<div align="center">
 <img src="media/dispositif_interaction_visiteur.jpg" width="50%">
-&nbsp;
+</div>
+
 
 
 
