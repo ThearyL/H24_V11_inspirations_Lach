@@ -109,9 +109,9 @@ Les dispositifs de «Réalité parallèle» sont placés dans la deuxièmes sect
 
 
 ## Ce qui vous a plu, vous a donné des idées
-Ce qui m'a plu est le fait que l'oeuvre était projecté de 4 différentes perspectives pour rencontrer une histoire. Je sentais que les artistes pouvaient plus exprimés leurs pensées de cette façon. Pour mes prochaines création, je pourrais faire une expérience qui montre plusieurs perspectives différentes qui sont interconnectés, mais au début on dirait que c'est des perspectives différences. À un moment, il y aurait une transition qui connecte tous les perspectives pour rencontrer une histoire ou une narration. De cette façon de je pourrais captiver l'intention des visiteurs ou des intéracteurs. Aussi les «bean bags» sur plancher ont aidé les visiteurs à se relaxer pendant la démonstration de l'oeuvre. L'aspect du confort est aussi quelque chose que je devrais y penser pour mes prochaines créations.
+Ce qui m'a plu est le fait que l
 
 
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Un aspect que je ferai autrement c'est d'ajouter plus découration et faire des jeux de lumières pour se sentir que on est dans une autre planète. La salle où se trouve la projection de l'oeuvre est presque vide et j'ai bien aimé le passage avec les couvetures d'urgences au début. Les décorations seront en liens avec l'espace et les jeux de lumières sont en lien avec la vidéos. L'expérience serait plus immersive de cette façon pour les vititeurs.
+Un aspect que je ferai autrement c'est d'ajouter 
 ## Références
