@@ -32,7 +32,9 @@ Présentation du dispositif        |
 
 ## Type d'installation
 Installation intéractive et un peu immersive
-![photo](media/composante_ancrage_a_projecteur_vue_plafond.jpg)
+
+<img src="media/dispositif_interaction_visiteur.jpg" width="50%">
+
 Exemple vidéo:
 
 [![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws )
@@ -40,12 +42,12 @@ Exemple vidéo:
 ## Fonction du dispositif multimédia
 
 ## Mise en espace
-![photo](media/oeuvre_vue_assis.jpg)
-![photo](media/oeuvre_vue_gauche.jpg)
+![photo](media/dispositif_vue_ensemble_milieu.jpg)
+![photo](media/dispositif_vue_ensemble_en_arriere.jpg)
 ![photo](media/plan_galerie.png)
 (source: https://en.dazibao.art/)
 
-Proche des dispositifs en collaboration avec Ubisoft, le visiteur est acceuil par des couvertures d'urgences illuminées par une lumière bleu. Après avoir passer à travers les couvertures d'urgences, le visiteur peut voir l'oeuvre projecté de 4 différentes façons. Il y a 2 projections devant le visiteur et 2 à sa gauche. Le visiteur peut s'asseoir sur 1 des 5 «bean bags». Sur la gauche du visiteur, il y a une couverture d'urgence sur le plancher.
+Proche des dispositifs en collaboration avec Ubisoft, les dispositifs sont placé d'une façon que les caméras des dispostifs puissent voir une vue large du plafond et des autres dispositifs de la deuxième partie de Explore.
 
 ## Composantes et techniques
 ### La firme a utilisée:
