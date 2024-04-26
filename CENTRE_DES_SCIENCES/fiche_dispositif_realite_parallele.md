@@ -40,6 +40,28 @@ Exemple vidéo:
 [![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws )
 
 ## Fonction du dispositif multimédia
+L'intéracteur doit visé la caméra vers les cinq marqeurs qui se trouvent un partout dans la mise en espace. Un ordinateur, un microcontrôleur et les cables sont placés dans un cabinet en-dessus de l'écran.
+
+Caméra en arrière du dispositif| 
+:-------------------------:|
+![photo](media/composante_camera_vue_arriere.jpg)
+
+Intérieur du cabinet| 
+:-------------------------:|
+![photo](media/composante_equipement_vue_arriere_interieure.jpg)
+
+Interface du dispositif qui explique l'objectif et le contrôle du dispositif | 
+:-------------------------:|
+![photo](media/dispositif_explication_objectif_fonctionnement.jpg)
+
+Interface du jeu | Un texte qui montre lorsque l'intéracteur est proche d'une bestiole | Animation d'une bestiole trouvée |
+:-------------------------:| :-------------------------:|:-------------------------:|
+![photo](media/dispositif_interface.jpg) | ![photo](media/dispositif_interface_interaction_marqueur_proche.jpg) | ![photo](media/dispositif_interface_interaction_marqeur_trouve.jpg)
+
+
+
+
+
 
 ## Mise en espace
 ![photo](media/dispositif_vue_ensemble_milieu.jpg)
