@@ -27,7 +27,7 @@ Cartel        |
 
 Vue diverses 
 
-<img src="media/SONALUX_interaction_visiteur_vue_gauche.jpg" width ="50%"> <img src="SONALUX_compsosante_bouton_lumineux.jpg" width ="50%"> 
+<img src="media/SONALUX_interaction_visiteur_vue_gauche.jpg" width ="50%"> <img src="media/SONALUX_compsosante_bouton_lumineux.jpg" width ="50%"> 
 
 
 
