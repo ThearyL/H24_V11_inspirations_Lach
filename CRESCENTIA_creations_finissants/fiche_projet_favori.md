@@ -16,13 +16,13 @@
 ### Année de réalisation: 2024
 
 ## Description du dispositif
-> «La réalité augmentée permet d'ajouter une couche d'information sur ce qui nous entoure. Grâce à elle, on peut dépasser les limites du reél.»¹
+> «Plongez dans une expérience où le temps s'efface pour laisser place à une exploratio créative sans limites. Notre œuvre vise à créer un moment d'évasion, une bulle hors d temps où vous pouvez vous abandonner à votre imagination et laisser éclore votre créativité. En suspendant la temporalité, nous vous invitons à vous libérer des contr et à vous laisser emporte par un flux d'inspiration infini. Dans un monde où checue est une note dans la symphonie de nos vies, il est essentiel de cultiver la curiosite, ce étincelle qui alimente la création de beauté et d'innovation. Être curieux, c'est ouvrir la porte à de nouvelles perspectives, à des découvertes inattendues et à des moments d'émerveillement. En encourageant la curiosité, notre œuvre aspire à inspirer chacun à explorer le monde qui l'entoure avec un regard neuf et à embrasser les possibilités infi qui se présentent à nous lorsque nous nous aventurons dans l'inconnu.»¹
 >
 > -- <cite>¹Centre des sciences de Montréal, «Réalité parallèle», TKNL, 2019</cite>
 
-Présentation du dispositif        | 
+Cartel        | 
 :-------------------------:|
-![photo](media/dispositif_presentation_realite_parallele.jpg)
+![photo](media/SONALUX_cartel.jpg)
 
 Panneau de crédit
 
