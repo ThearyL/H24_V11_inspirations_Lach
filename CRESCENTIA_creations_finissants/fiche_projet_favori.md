@@ -3,7 +3,7 @@
 ### Lieu de mise en exposition: Collège Montmorency - C-1710 et C-1712 - 475 Bd de l'Avenir, Laval, QC H7N 5H9
  Vue extérieur         |  Vue intérieur
 :-------------------------:|:-------------------------:|
-![photo](media/CRESCENTIA_vue_exterieur.jpg) | ![photo](media/CRESCENTIA_vue ensemble.jpg)
+![photo](media/CRESCENTIA_vue_exterieur.jpg) | ![photo](media/CRESCENTIA_vue_ensemble.jpg)
 
 
 ### Type d'exposition: temporaire - intérieure 
