@@ -64,14 +64,26 @@ Vue ensemble de la pièce
 L'expérience SONALUX se trouve dans la partie avec les trois murs dont deux sont mobile, et un grand rideau noir.
 
 ## Composantes et techniques
-### La firme a utilisée:
-* Grosse boite verte en métal avec des poignés et un écran
-* Ordinateur
-* Câbles
-* Microcontôleur
-* Caméra
-* Disque dur/clée USB
-* Marqeurs en forme d'étoile
+### Les artistes ont utilisée:
+>M5Stack
+>*3 Atom Lite
+>*3 Atom POE
+>*5 Angle Unit
+>*4 Key Unit
+>*2 ToF Unit
+>*2 PBHub
+>*1 GroveHub
+>*1 PaHub
+>
+Contenu multmidédia
+>* 3 paysages visuels génératifs (TouchDesigner)
+>* 2 paysages sonores (VCV Rack)
+>  
+>Autre
+>* Microcontrôleur
+>* Podium
+>* 4 crochets
+> (source :https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 Composantes dans un cabinet en-dessous de l'écran| 
 :-------------------------:|
@@ -80,10 +92,33 @@ Composantes dans un cabinet en-dessous de l'écran|
 
 
 ## Éléments nécessaires à la mise en exposition
-* Câbles, adpteurs, alimentation et extension
-* Tuiles du plancher retirables
-* Cabinets pour mettre les composantes
-  
+
+> Audio
+>* 2 haut-parleurs actifs de 4"
+>* 4 fils XLR 3 conducteurs de 15' (M->F)
+>* Interface audio USB disposant 8 sorties et au moins 1 entrée
+>* 4 casques d'écouteurs
+>* Carte de son
+>
+>Vidéo
+>* 3 projecteurs vidéo lentille grand angle 0.5
+>
+>Électricité
+>* cordons IEC (pour l'alimentation des haut-parleurs)
+>* 2 extentions 3 fiches et 3 conducteurs
+>* 2 multiprises
+>
+>Réseau
+>* 4 fils cat6a de 15"
+>* Switch POE 5 ports
+>
+>Ordinateur
+>* 1 ordinateur portable
+>* 1 ordinateur sur chariot
+>  
+>Autre
+> * 2 murs mobiles
+> (source :https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 ## Expérience vécue
 Les dispositifs de «Réalité parallèle» sont placés dans la deuxièmes section de «Explore», proches de dispositifs en collaboration avec Ubisoft. Elles sons placées en direction pour avoir une vue ensemble de la section en entière. Les deux dispositifs sont mis à une hauteur différent pour accommoder à la grandeur de l'intéracteur. L'objectif est de trouvé les cinqs bestioles cachés un peu partout de la mise en espace et il y a un temps limité de 60 secondes. L'intéracteur doit bouger l'écran avec des poignés sur les cotés. Sur l'écran, il a un texte qui va apparaître lorsque la personne est proche de trouver la bestiole. Lorsque l'intéracteur à trouver bestiole, il y a une animation spéciale qui fait apparaître la bestiole. Je trouve que ce dispositif est bien fait et que l'interface et les animations sont cutes.
