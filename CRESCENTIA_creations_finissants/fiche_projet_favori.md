@@ -6,8 +6,8 @@
 ![photo](media/CRESCENTIA_vue_exterieur.jpg) | ![photo](media/CRESCENTIA_vue_ensemble.jpg)
 
 
-### Type d'exposition: temporaire - intérieure 
-### Date de la visite: 18 au 21 mars 2024
+### Type d'exposition: temporaire - intérieure (18 au 21 mars 2024)
+### Date de la visite: 18 mars 2024
 
 ## SONALUX
 ![photo](media/SONALUX_vue_ensemble.jpg)
