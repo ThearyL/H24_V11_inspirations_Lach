@@ -27,7 +27,7 @@ Cartel        |
 
 Vue diverses 
 
-<img src="media/SONALUX_interaction_visiteur_vue_gauche.jpg" width ="50%"> <img src="media/SONALUX_compsosante_bouton_lumineux.jpg" width ="50%"> 
+<img src="media/SONALUX_interaction_visiteur_vue_gauche.jpg" width ="40%"> <img src="media/SONALUX_compsosante_bouton_lumineux.jpg" width ="40%"> 
 
 
 
@@ -35,7 +35,7 @@ Vue diverses
 ## Type d'installation
 Installation intéractive et un peu immersive
 
-<img src="media/dispositif_interaction_visiteur.jpg" width="50%">
+<img src="media/SONALUX_composante_console_vue_en_haut.jpg" width="50%">
 
 Exemple vidéo:
 
