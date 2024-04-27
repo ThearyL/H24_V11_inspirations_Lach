@@ -10,7 +10,7 @@
 ### Date de la visite: 18 au 21 mars 2024
 
 ## SONALUX
-![photo](media/SONALUX_vue ensemble.jpg)
+![photo](media/SONALUX_vue_ensemble.jpg)
 ### Nom des artiste: Antoine Haddad, Camélie Laprise, Ghita Alaoui, Vincent Desjardins
 
 ### Année de réalisation: 2024
