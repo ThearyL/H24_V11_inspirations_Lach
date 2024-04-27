@@ -122,7 +122,7 @@ M5Stack        | Ensemble des composantes
 > (source : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 ## Expérience vécue
-Après que le visiteur a passé par les grands rideaux noir, il voit un podium avec des casques d'écouteur acrochés sur le coté et une console de controle desssus. La console a 4 boutons lumineux et 4 boutons de volume, et chacun controle un environnement sonore. L'environnement visuel projecté sur les 3 murs dépends du paramètre choisi par le visiteur. 
+Après que le visiteur a passé par les grands rideaux noir, il est acceuili par un podium avec des casques d'écouteur acrochés sur le coté et une console de controle desssus. La console a 4 boutons lumineux et 4 boutons de volume, et chacun controle un environnement sonore. L'environnement visuel projecté sur les 3 murs dépends du paramètre choisi par le visiteur. Le visiteur est immersé grâce au fait qu'il est enfermé entre les murs et le rideau
 
 <div align="center">
 <img src="media/SONALUX_interaction_visiteur_vue_ensemble.jpg" width="50%">
@@ -132,9 +132,9 @@ Après que le visiteur a passé par les grands rideaux noir, il voit un podium a
 
 
 ## Ce qui vous a plu, vous a donné des idées
-Ce qui m'a plu est le fait que le dispositif a utilisé des marqueurs d'identification en forme d'étoile pour trouver les bestioles avec la caméra. Pour mes prochaines créations multimédias, je pourrais utiliser une caméra et des marqueurs avec des formes spécifiques ou des couleurs spécifiques pour créer un jeu ou un art numérique.
+Ce qui m'a plu est le fait le dispositif essaye de jouer avec la hyperstimulation de l'utilisateur avec le son et les images projectées. J'ai une idée similaire dont un musicien a le contrôle sur la console et c'est lui qui va créer l'audiovisuel devant une audience. Une autre idée similaire est de créer une expérience dont l'intéracteur peut entendre et voir la nature en temps réel. L'environnement peut être entendre et vue en 360 degré. 
 
 
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Un aspect que je ferai autrement est de redesigner la boite verte de l'écran puisque le design est très industriel. Je le redisignerai d'une façon plus futuristique. 
+Un aspect que je ferai autrement est d'avoir une interface sur la projection ou sur le podium pour avoir une vue sur le contrôle des sons. Je penses avoir une interface va faire l'utilisateur jouer plus avec l'environnement de son puisqu'il voir ce qu'il fait en temps réel.
 ## Références
