@@ -84,7 +84,7 @@ L'expérience SONALUX se trouve dans la partie avec les trois murs dont deux son
 >* Podium
 >* 4 crochets
 >  
-> (source :https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+> (source : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 M5Stack        | Ensemble des composantes
 :-------------------------:|:-------------------------:|
@@ -119,10 +119,10 @@ M5Stack        | Ensemble des composantes
 >Autre
 > * 2 murs mobiles
 >   
-> (source :https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+> (source : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 ## Expérience vécue
-Les dispositifs de «Réalité parallèle» sont placés dans la deuxièmes section de «Explore», proches de dispositifs en collaboration avec Ubisoft. Elles sons placées en direction pour avoir une vue ensemble de la section en entière. Les deux dispositifs sont mis à une hauteur différent pour accommoder à la grandeur de l'intéracteur. L'objectif est de trouvé les cinqs bestioles cachés un peu partout de la mise en espace et il y a un temps limité de 60 secondes. L'intéracteur doit bouger l'écran avec des poignés sur les cotés. Sur l'écran, il a un texte qui va apparaître lorsque la personne est proche de trouver la bestiole. Lorsque l'intéracteur à trouver bestiole, il y a une animation spéciale qui fait apparaître la bestiole. Je trouve que ce dispositif est bien fait et que l'interface et les animations sont cutes.
+Après que le visiteur a passé par les grands rideaux noir, il voit un podium avec des casques d'écouteur acrochés sur le coté et une console de controle desssus. La console a 4 boutons lumineux et 4 boutons de volume, et chacun controle un environnement sonore. L'environnement visuel projecté sur les 3 murs dépends du paramètre choisi par le visiteur. 
 
 <div align="center">
 <img src="media/SONALUX_interaction_visiteur_vue_ensemble.jpg" width="50%">
