@@ -24,13 +24,10 @@ Cartel        |
 :-------------------------:|
 ![photo](media/SONALUX_cartel.jpg)
 
-Panneau de crédit
-
-<img src="media/panneau_credit_explore_partenaires.jpg" width ="22%"> <img src="media/panneau_credit__explore_equipe_du_projet.jpg" width ="22%"> <img src="media/panneau_credit_explore_conception_realisation.jpg" width ="22%"> <img src="media/panneau_credit__explore_comite_scientifique_capsules_video.jpg" width ="22%">
 
 Vue diverses 
 
-<img src="media/dispositif_vue_ensemble_de_gauche.jpg" width ="33%"> <img src="media/dispositif_vue_ensemble_milieu.jpg" width ="33%"> <img src="media/dispositif_vue_ensemble_de_droite.jpg" width ="33%"> 
+<img src="media/SONALUX_interaction_visiteur_vue_gauche.jpg" width ="50%"> <img src="SONALUX_compsosante_bouton_lumineux.jpg" width ="50%"> 
 
 
 
