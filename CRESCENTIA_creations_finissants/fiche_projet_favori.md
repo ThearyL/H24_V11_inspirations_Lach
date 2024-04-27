@@ -66,14 +66,14 @@ L'expérience SONALUX se trouve dans la partie avec les trois murs dont deux son
 ## Composantes et techniques
 ### Les artistes ont utilisée:
 >M5Stack
->*3 Atom Lite
->*3 Atom POE
->*5 Angle Unit
->*4 Key Unit
->*2 ToF Unit
->*2 PBHub
->*1 GroveHub
->*1 PaHub
+>* 3 Atom Lite
+>* 3 Atom POE
+>* 5 Angle Unit
+>* 4 Key Unit
+>* 2 ToF Unit
+>* 2 PBHub
+>* 1 GroveHub
+>* 1 PaHub
 >
 Contenu multmidédia
 >* 3 paysages visuels génératifs (TouchDesigner)
@@ -85,10 +85,9 @@ Contenu multmidédia
 >* 4 crochets
 > (source :https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
-Composantes dans un cabinet en-dessous de l'écran| 
-:-------------------------:|
-![photo](media/composante_equipement_vue_arriere_interieure.jpg)
-
+M5Stack        | Ensemble des composantes
+:-------------------------:|:-------------------------:|
+![photo](media/SONALUX_beta_composante_console_vue_de_cote.jpg) | ![photo](media/SONALUX_beta_vue_ensemble.jpg)
 
 
 ## Éléments nécessaires à la mise en exposition
@@ -124,7 +123,7 @@ Composantes dans un cabinet en-dessous de l'écran|
 Les dispositifs de «Réalité parallèle» sont placés dans la deuxièmes section de «Explore», proches de dispositifs en collaboration avec Ubisoft. Elles sons placées en direction pour avoir une vue ensemble de la section en entière. Les deux dispositifs sont mis à une hauteur différent pour accommoder à la grandeur de l'intéracteur. L'objectif est de trouvé les cinqs bestioles cachés un peu partout de la mise en espace et il y a un temps limité de 60 secondes. L'intéracteur doit bouger l'écran avec des poignés sur les cotés. Sur l'écran, il a un texte qui va apparaître lorsque la personne est proche de trouver la bestiole. Lorsque l'intéracteur à trouver bestiole, il y a une animation spéciale qui fait apparaître la bestiole. Je trouve que ce dispositif est bien fait et que l'interface et les animations sont cutes.
 
 <div align="center">
-<img src="media/dispositif_interaction_visiteur.jpg" width="50%">
+<img src="media/SONALUX_interaction_visiteur_vue_ensemble.jpg" width="50%">
 </div>
 
 
