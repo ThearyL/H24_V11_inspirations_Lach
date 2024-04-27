@@ -75,7 +75,7 @@ L'expérience SONALUX se trouve dans la partie avec les trois murs dont deux son
 >* 1 GroveHub
 >* 1 PaHub
 >
-Contenu multmidédia
+>Contenu multmidédia
 >* 3 paysages visuels génératifs (TouchDesigner)
 >* 2 paysages sonores (VCV Rack)
 >  
@@ -83,6 +83,7 @@ Contenu multmidédia
 >* Microcontrôleur
 >* Podium
 >* 4 crochets
+>  
 > (source :https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 M5Stack        | Ensemble des composantes
@@ -117,6 +118,7 @@ M5Stack        | Ensemble des composantes
 >  
 >Autre
 > * 2 murs mobiles
+>   
 > (source :https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 ## Expérience vécue
