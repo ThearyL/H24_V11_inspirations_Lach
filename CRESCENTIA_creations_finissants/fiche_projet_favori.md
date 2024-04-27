@@ -56,12 +56,12 @@ Console|
 
 
 ## Mise en espace
-![photo](media/dispositif_vue_ensemble_milieu.jpg)
-![photo](media/dispositif_vue_ensemble_en_arriere.jpg)
-![photo](media/plan_galerie.png)
+Vue ensemble de la pièce
+![photo](media/CRESCENTIA_vue_ensemble.jpg)
+![photo](media/KIGO_beta_interaction_visiteur.jpg)
 (source: https://en.dazibao.art/)
 
-Proche des dispositifs en collaboration avec Ubisoft, les dispositifs (placés à une hauteur différente d'une de l'autre) sont placé d'une façon que les caméras des dispostifs puissent voir une vue large du plafond et des autres dispositifs de la deuxième partie de Explore.
+L'expérience SONALUX se trouve dans la partie avec les trois murs dont deux sont mobile, et un grand rideau noir.
 
 ## Composantes et techniques
 ### La firme a utilisée:
