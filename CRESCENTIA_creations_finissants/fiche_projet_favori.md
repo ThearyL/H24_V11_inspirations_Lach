@@ -33,7 +33,7 @@ Vue diverses
 
 
 ## Type d'installation
-Installation intéractive et un peu immersive
+Installation intéractive et immersive
 
 <img src="media/SONALUX_composante_console_vue_en_haut.jpg" width="50%">
 
@@ -42,23 +42,13 @@ Exemple vidéo:
 [![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws )
 
 ## Fonction du dispositif multimédia
-L'intéracteur doit visé la caméra vers les cinq marqeurs en forme d'étoile qui se trouvent un peu partout dans la mise en espace.
+L'intéracteur porte un casque d'écouteur et control une console qui controle l'environnement sonore et visuel. L'intéracteur peut contrôle les sons qui entend et son volume.
 
-Caméra en arrière du dispositif| 
+Console| 
 :-------------------------:|
-![photo](media/composante_camera_vue_arriere.jpg)
+![photo](media/SONALUX_compsosante_bouton_lumineux.jpg)
 
-Marqueurs| Marqueur au plafond
-:-------------------------:| :-------------------------:|
-![photo](media/dispositif_vue_ensemble_milieu_proche.jpg) | ![photo](media/composante_marqueur_vue_plafond.jpg)
 
-Interface du dispositif qui explique l'objectif et le contrôle du dispositif | 
-:-------------------------:|
-![photo](media/dispositif_explication_objectif_fonctionnement.jpg)
-
-Interface du jeu | Un texte qui montre lorsque l'intéracteur est proche d'une bestiole | Animation d'une bestiole trouvée |
-:-------------------------:| :-------------------------:|:-------------------------:|
-![photo](media/dispositif_interface.jpg) | ![photo](media/dispositif_interface_interaction_marqueur_proche.jpg) | ![photo](media/dispositif_interface_interaction_marqeur_trouve.jpg)
 
 
 
