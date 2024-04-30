@@ -124,18 +124,17 @@ L'installation utilise trois projecteurs, quatre haut-parleurs, une toile, deux 
 ![photo](media/RHIZOMATIQUE_beta_vue_enemble.jpg) | ![photo](media/RHIZOMATIQUE_beta_composante_equipement_vue_plafond.jpg) | ![photo](media/RHIZOMATIQUE_composante_equipement_vue_arriere.jpg) | 
 
 ## Schéma de l'installation
-<img src="media/rhizomatique_plantation.png" width=50%>
+<img src="media/RHIZOMATIQUE_plantation.png" width=50%>
 (Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
 J'ai ressenti que l'installation était intéressant avec son utilisation de la toile. C'était très immersif comme expérience puisque l'installation utilisait le cyclo.
 
 ## Trois cours incontournables du programme
-Trois cours incontournables du programme pour ce projet seraient le cours de réalité mixte, le cours de modélisation 3D et le cours d'animations 3D. Ils sont besoin de ses cours pour utiliser créer les modèles 3D, les animations et les intégrers pour créer une expérience immersive.
+Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de traitement d'audiovisuel et le cours d'intéractivité ludique. Ils sont besoin de ses cours pour monter et créer un expérience audiovisuel liéé à un dispositif.
 
 ## Technique ou composante technologique
-Le projet a utilisé la Kinect pour détecté les mouvements des joueurs. Il peut avoir deux joueurs dans la zone. Avec la Kinect, ils pouvaient choisir la zone de limite que le jouer peut bouger. La Kinect a un projecteur infrarouge, un détecteur de distance et détecter les couleurs.
+Le projet a utilisé la Kinect pour détecté les mouvements de la main de l'utilisateur, et dépendant du moment et du mouvement, il y a un audiovisuel qui joue. Ils sont problament utiliser le projecteur d'infrarouge et le détecteur de distance de la Kinect pour cette expérience.
 
 ## Préférence et justification
-La raison que Kigo est mon troisième projet préféré est que l'expérience était amusant et j'aimais que c'était un jeu vidéo. Par contre, la Kinect détecté mal mes movements quelque fois, mais ce n'est pas la faute des étudiants.
-
+La raison que Rhizomatique est mon quatrième projet préféré est que l'expérience était très immersive, et la projection et l'intéractivité de la toile est bien fait. Mais malheureusement, je ne trouvais pas intéressant.
