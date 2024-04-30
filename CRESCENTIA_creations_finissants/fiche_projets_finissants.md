@@ -89,18 +89,17 @@ L'installation utilise un projecteur, une Kinect, deux haut-parleurs, une zone d
 ![photo](media/KIGO_beta_vue_ensemble.jpg) | ![photo](media/KIGO_beta_composante_vue_ensemble.jpg) | ![photo](media/KIGO_ambiance_sombre_vue_ensemble.jpg) | 
 
 ## Schéma de l'installation
-<img src="media/CC_schema_plantation.png" width=50%>
-(Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html )
+<img src="media/KIGO_plantation_technique.png" width=50%>
+(Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
-J'ai ressenti que l'installation était vraiment amusant à expérimenter avec les différentes intéractions et créer plusieurs combinaisons. Le style du "3D low poly" des statuettes et des planètes étaient très bien fait et qui donnaient du charme.
+J'ai ressenti que l'installation était vraiment amusant, c'était la seule installation que c'était un jeu. La Kinect détectait des fois un peu mal mes mouvements.
 
 ## Trois cours incontournables du programme
-Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de modélisation 3D et le cours d'intéractivié ludique. Ils sont besoin de ses cours pour utiliser créer les modèles 3D, des effets, l'intéractivité de chaque objet et de les projectés.
+Trois cours incontournables du programme pour ce projet seraient le cours de réalité mixte, le cours de modélisation 3D et le cours d'animations 3D. Ils sont besoin de ses cours pour utiliser créer les modèles 3D, les animations et les intégrers pour créer une expérience immersive.
 
 ## Technique ou composante technologique
-Le projet a utilisé du langage de programmation Python pour transmettre les données des marqeurs à TouchDesigner et à Unity. Je penses qu'ils sont utilisés la technique de communication inter-processus pour transmettre les donnés des marqeurs. C'est un processus qui peut être sur le même ou de différents systèmes de communication pour échanger les donners entre eux.
+Le projet a utilisé la Kinect pour détecté les mouvements des joueurs. Il peut avoir deux joueurs dans la zone. Avec la Kinect, ils pouvaient choisir la zone de limite que le jouer peut bouger. La Kinect a un projecteur infrarouge, un détecteur de distance et détecter les couleurs.
 
 ## Préférence et justification
-La raison que Canevas comisque est mon deuxième projet préféré est que l'expérience était très intéractive et amusant. J'ai beaucoup aimé d'interagire avec les statuettes par contre j'ai remarqué que moi et les autres gens regroupaient tous les statuettes ensemble après 1 minute d'intéraction avec l'installation. Je penses qu'il manquait de complexité dans les intéractions. 
-
+La raison que Kigo est mon troisième projet préféré est que l'expérience était amusant et j'aimais que c'était un jeu vidéo. Par contre, la Kinect détecté mal mes movements quelque fois, mais ce n'est pas la faute des étudiants.
