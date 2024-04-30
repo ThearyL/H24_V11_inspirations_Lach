@@ -46,7 +46,7 @@ La raison que SONALUX est mon projet préféré est que l'expérience était sim
 Le lien de ce projet avec la thème Crescentia est l'intéraction des objets et de le système solaire qui s'évoluent avec le temps et le nombre d'intéraction entre eux.
 
 ## L'installation en cours
-L'installation utilise une table, deux projecteurs, deux haut-parleurs, des statuettes et une Kinect,. Un projecteur sur le mur et un autre en dessous de la table. La Kinect est en-dessous de la table. Les statuettes ont des marqueurs en dessous d'elles qui permet de les identifiers par la Kinect.
+L'installation utilise une table, deux projecteurs, deux haut-parleurs, des statuettes et une Kinect,. Un projecteur sur le mur et un autre en dessous de la table. La Kinect est en dessous de la table. Les statuettes ont des marqueurs en dessous d'elles qui permet de les identifiers par la Kinect.
 
  Vue ensemble       |  Vue de la table | Composantes en dessous de table | Marqeurs en dessous des statuettes
 :-------------------------:|:-------------------------:| :-------------------------:|  :-------------------------:| 
@@ -126,6 +126,43 @@ L'installation utilise trois projecteurs, quatre haut-parleurs, une toile, deux 
 ## Schéma de l'installation
 <img src="media/RHIZOMATIQUE_plantation.png" width=50%>
 (Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html )
+
+## Ressenti en expérimentant l'installation
+J'ai ressenti que l'installation était intéressant avec son utilisation de la toile. C'était très immersif comme expérience puisque l'installation utilisait le cyclo.
+
+## Trois cours incontournables du programme
+Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de traitement d'audiovisuel et le cours d'intéractivité ludique. Ils sont besoin de ses cours pour monter et créer un expérience audiovisuel liéé à un dispositif.
+
+## Technique ou composante technologique
+Le projet a utilisé la Kinect pour détecté les mouvements de la main de l'utilisateur, et dépendant du moment et du mouvement, il y a un audiovisuel qui joue. Ils sont problament utiliser le projecteur d'infrarouge et le détecteur de distance de la Kinect pour cette expérience.
+
+## Préférence et justification
+La raison que Rhizomatique est mon quatrième projet préféré est que l'expérience était très immersive, et la projection et l'intéractivité de la toile est bien fait. Mais malheureusement, je ne trouvais pas intéressant.
+
+
+
+# 5.Effet papillion
+## Créateurs
+* Alexis Bolduc
+* Raphaël Dumont
+* Jasmine Lapierre
+* William Morel
+* Alexia Papanikolaou
+* Viktor Zhuravlev
+  
+## Lien du projet avec Crescentia
+Le lien de ce projet avec la thème Crescentia est la croissance de la vie selon de chaque conséquence.
+
+## L'installation en cours
+L'installation se trouve au petit studio et il utilise des projecteurs, des petits écrans, des lumières, des haut-parleurs et plusieurs autres composantes uniques à leur projet. L'intéracteur doit peser sur bouton sur "l'arbre" qui se trouve au milieu et ensuite suivre les instructions aidé par une lumière. 
+
+ Vue ensemble       |  Vue du plafond | Vue sur des composantes
+:-------------------------:|:-------------------------:| :-------------------------:| 
+![photo](media/EP_beta_vue_ensemble.jpg) | ![photo](media/EP_composante_vue_plafond.jpg) | ![photo](media/EP_composante_lumiere_interrupteur_vue_ensemble.jpg) | 
+
+## Schéma de l'installation
+<img src="media/RHIZOMATIQUE_plantation.png" width=50%>
+(Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
 J'ai ressenti que l'installation était intéressant avec son utilisation de la toile. C'était très immersif comme expérience puisque l'installation utilisait le cyclo.
