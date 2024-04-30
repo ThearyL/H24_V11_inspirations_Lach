@@ -128,7 +128,7 @@ L'installation utilise trois projecteurs, quatre haut-parleurs, une toile, deux 
 (Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
-J'ai ressenti que l'installation était vraiment amusant, c'était la seule installation que c'était un jeu. La Kinect détectait des fois un peu mal mes mouvements.
+J'ai ressenti que l'installation était intéressant avec son utilisation de la toile. C'était très immersif comme expérience puisque l'installation utilisait le cyclo.
 
 ## Trois cours incontournables du programme
 Trois cours incontournables du programme pour ce projet seraient le cours de réalité mixte, le cours de modélisation 3D et le cours d'animations 3D. Ils sont besoin de ses cours pour utiliser créer les modèles 3D, les animations et les intégrers pour créer une expérience immersive.
