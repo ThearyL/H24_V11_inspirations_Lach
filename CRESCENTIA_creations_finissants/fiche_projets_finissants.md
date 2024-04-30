@@ -63,7 +63,7 @@ J'ai ressenti que l'installation était vraiment amusant à expérimenter avec l
 Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de modélisation 3D et le cours d'intéractivié ludique. Ils sont besoin de ses cours pour utiliser créer les modèles 3D, des effets, l'intéractivité de chaque objet et de les projectés.
 
 ## Technique ou composante technologique
-Le projet a utilisé du langage de programmation Python pour transmettre les données des marqeurs à TouchDesigner et à Unity. Je penses qu'ils sont utilisés la technique de communication inter-processus pour transmettre les donnés des marqeurs. C'est un processus qui peut être sur le même ou de différents systèmes de communication pour échanger les donners entre eux.
+Le projet a utilisé du langage de programmation Python pour transmettre les données des marqeurs à TouchDesigner et à Unity. Je penses que les étudiants ont utilisés la technique de communication inter-processus pour transmettre les donnés des marqeurs. C'est un processus qui peut être sur le même ou de différents systèmes de communication pour échanger les donners entre eux.
 
 ## Préférence et justification
 La raison que Canevas comisque est mon deuxième projet préféré est que l'expérience était très intéractive et amusant. J'ai beaucoup aimé d'interagire avec les statuettes par contre j'ai remarqué que moi et les autres gens regroupaient tous les statuettes ensemble après 1 minute d'intéraction avec l'installation. Je penses qu'il manquait de complexité dans les intéractions. 
@@ -96,10 +96,10 @@ L'installation utilise un projecteur, une Kinect, deux haut-parleurs, une zone d
 J'ai ressenti que l'installation était vraiment amusant, c'était la seule installation que c'était un jeu. La Kinect détectait des fois un peu mal mes mouvements.
 
 ## Trois cours incontournables du programme
-Trois cours incontournables du programme pour ce projet seraient le cours de réalité mixte, le cours de modélisation 3D et le cours d'animations 3D. Ils sont besoin de ses cours pour utiliser créer les modèles 3D, les animations et les intégrers pour créer une expérience immersive.
+Trois cours incontournables du programme pour ce projet seraient le cours de réalité mixte, le cours de modélisation 3D et le cours d'animations 3D. Les étudiants ont besoin de ses cours pour utiliser créer les modèles 3D, les animations et les intégrers pour créer une expérience immersive.
 
 ## Technique ou composante technologique
-Le projet a utilisé la Kinect pour détecté les mouvements des joueurs. Il peut avoir deux joueurs dans la zone. Avec la Kinect, ils pouvaient choisir la zone de limite que le jouer peut bouger. La Kinect a un projecteur infrarouge, un détecteur de distance et détecter les couleurs.
+Le projet a utilisé la Kinect pour détecté les mouvements des joueurs. Il peut avoir deux joueurs dans la zone. Avec la Kinect, les étudiants pouvaient choisir la zone de limite que le jouer peut bouger. La Kinect a un projecteur infrarouge, un détecteur de distance et détecter les couleurs.
 
 ## Préférence et justification
 La raison que Kigo est mon troisième projet préféré est que l'expérience était amusant et j'aimais que c'était un jeu vidéo. Par contre, la Kinect détecté mal mes movements quelque fois, mais ce n'est pas la faute des étudiants.
@@ -131,10 +131,10 @@ L'installation utilise trois projecteurs, quatre haut-parleurs, une toile, deux 
 J'ai ressenti que l'installation était intéressant avec son utilisation de la toile. C'était très immersif comme expérience puisque l'installation utilisait le cyclo.
 
 ## Trois cours incontournables du programme
-Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de traitement d'audiovisuel et le cours d'intéractivité ludique. Ils sont besoin de ses cours pour monter et créer un expérience audiovisuel liéé à un dispositif.
+Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de traitement d'audiovisuel et le cours d'intéractivité ludique. Les étudiants ont besoin de ses cours pour monter et créer un expérience audiovisuel liéé à un dispositif.
 
 ## Technique ou composante technologique
-Le projet a utilisé la Kinect pour détecté les mouvements de la main de l'utilisateur, et dépendant du moment et du mouvement, il y a un audiovisuel qui joue. Ils sont problament utiliser le projecteur d'infrarouge et le détecteur de distance de la Kinect pour cette expérience.
+Le projet a utilisé la Kinect pour détecté les mouvements de la main de l'utilisateur, et dépendant du moment et du mouvement, il y a un audiovisuel qui joue. Les étudiants ont problament utiliser le projecteur d'infrarouge et le détecteur de distance de la Kinect pour cette expérience.
 
 ## Préférence et justification
 La raison que Rhizomatique est mon quatrième projet préféré est que l'expérience était très immersive, et la projection et l'intéractivité de la toile est bien fait. Mais malheureusement, je ne trouvais pas intéressant.
@@ -161,17 +161,17 @@ L'installation se trouve au petit studio et il utilise des projecteurs, des peti
 ![photo](media/EP_beta_vue_ensemble.jpg) | ![photo](media/EP_composante_vue_plafond.jpg) | ![photo](media/EP_composante_lumiere_interrupteur_vue_ensemble.jpg) | 
 
 ## Schéma de l'installation
-<img src="media/RHIZOMATIQUE_plantation.png" width=50%>
+<img src="media/EP_plantation.png" width=50%>
 (Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
-J'ai ressenti que l'installation était intéressant avec son utilisation de la toile. C'était très immersif comme expérience puisque l'installation utilisait le cyclo.
+J'ai ressenti que l'installation était intéressant et complexe, mais c'était une expérience linéaire et incomplet malheureusement.
 
 ## Trois cours incontournables du programme
-Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de traitement d'audiovisuel et le cours d'intéractivité ludique. Ils sont besoin de ses cours pour monter et créer un expérience audiovisuel liéé à un dispositif.
+Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de traitement d'audiovisuel et le cours d'objets intéractives. Les étudiants ont besoin de ses cours pour monter et créer un expérience audiovisuel qui peut être intéragi avec plusieurs objets.
 
 ## Technique ou composante technologique
-Le projet a utilisé la Kinect pour détecté les mouvements de la main de l'utilisateur, et dépendant du moment et du mouvement, il y a un audiovisuel qui joue. Ils sont problament utiliser le projecteur d'infrarouge et le détecteur de distance de la Kinect pour cette expérience.
+Le projet a utilisé des Arduinos en arrière de chaque écran poue la transmission de données. Arduino est un microcontrôleur et un logiciel qui sont de source ouverte. L'utilisation est très facile grâce aux ressources en ligne et ils sont très versatiles.
 
 ## Préférence et justification
-La raison que Rhizomatique est mon quatrième projet préféré est que l'expérience était très immersive, et la projection et l'intéractivité de la toile est bien fait. Mais malheureusement, je ne trouvais pas intéressant.
+La raison que Rhizomatique est mon dernier projet préféré est que l'expérience était très lineaire et inconplet. J'imagine que le projet était trop complexe pour les étudients et ils manquaient du temps.
