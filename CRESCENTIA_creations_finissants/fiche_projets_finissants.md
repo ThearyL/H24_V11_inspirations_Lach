@@ -20,7 +20,7 @@ L'installation utilise trois murs blanc (deux mobiles), un grand rideau noir, de
 <img src="media/SONALUX_schema_plantation.png" width=50%>
 (Source: https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html )
 
-## Ressenti en expériement l'installation
+## Ressenti en expérimentant l'installation
 J'ai ressenti que j'étais transporté dans un autre grâce aux audios utilisés et le fait que je suis enfermé entre des murs. Aussi le fait que je pouvais contrôler l'audio a beacoup ajouter à l'expérience. Par contre, le visuel projecté n'était pas très cohérent avec l'audio.
 
 ## Trois cours incontournables du programme:
