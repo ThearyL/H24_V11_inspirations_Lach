@@ -30,4 +30,4 @@ Trois cours incontournables du programme pour ce projet seraient le cours d'inst
 TouchDesigner est un logiciel pour créer des expériences intéractives, des installations multimédias et générer en temps réel de l'art visuel. L'interface du logicel est facile à utiliser et peut facilement prendre les données des composantes électroniques.
 
 ## Préférence et justification
-La raison que SONALUX est mon projet préféré est que l'expérience était simple, mais il était très bien fait. Aussi, c'était le seul projet dont le son qui mettait beaucoup d'importance sur l'expérience audiovisuel.
+La raison que SONALUX est mon projet préféré est que l'expérience était simple, mais il était très bien fait. Aussi, c'était le seul projet dont le son est un aspect importance sur l'expérience audiovisuel.
