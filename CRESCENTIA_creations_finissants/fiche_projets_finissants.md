@@ -124,7 +124,7 @@ L'installation utilise trois projecteurs, quatre haut-parleurs, une toile, deux 
 ![photo](media/RHIZOMATIQUE_beta_vue_enemble.jpg) | ![photo](media/RHIZOMATIQUE_beta_composante_equipement_vue_plafond.jpg) | ![photo](media/RHIZOMATIQUE_composante_equipement_vue_arriere.jpg) | 
 
 ## Schéma de l'installation
-<img src="media/KIGO_plantation_technique.png" width=50%>
+<img src="media/rhizomatique_plantation.png" width=50%>
 (Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
