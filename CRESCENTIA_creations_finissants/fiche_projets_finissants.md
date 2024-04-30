@@ -121,7 +121,7 @@ L'installation utilise trois projecteurs, quatre haut-parleurs, une toile, deux 
 
  Vue ensemble       |  Vue du plafond | Vue en dessous de la toile
 :-------------------------:|:-------------------------:| :-------------------------:| 
-![photo](mediaRHIZOMATIQUE_beta_vue_enemble.jpg) | ![photo](media/RHIZOMATIQUE_beta_composante_equipement_vue_plafond.jpg) | ![photo](media/RHIZOMATIQUE_composante_equipement_vue_arriere.jpg) | 
+![photo](media/RHIZOMATIQUE_beta_vue_enemble.jpg) | ![photo](media/RHIZOMATIQUE_beta_composante_equipement_vue_plafond.jpg) | ![photo](media/RHIZOMATIQUE_composante_equipement_vue_arriere.jpg) | 
 
 ## Schéma de l'installation
 <img src="media/KIGO_plantation_technique.png" width=50%>
