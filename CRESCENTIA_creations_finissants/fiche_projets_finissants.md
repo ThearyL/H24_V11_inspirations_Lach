@@ -1,5 +1,5 @@
 # Crescentia: Projets des finissants en TIM
-# 1.Kigo
+# 1.SONALUX
 ## Créateurs
 * Vincent Desjardins
 * Camélie Laprise
@@ -33,8 +33,9 @@ TouchDesigner est un logiciel pour créer des expériences intéractives, des in
 La raison que SONALUX est mon projet préféré est que l'expérience était simple, mais il était très bien fait. Aussi, c'était le seul projet dont le son est un aspect importance sur l'expérience audiovisuel.
 
 
+
 # 2.Canevas cosmique
-## Créateurs:
+## Créateurs
 * Jacob Alarie-Brousseau 
 * Jérémy Cholette 
 * Étienne Charron 
@@ -50,6 +51,42 @@ L'installation utilise une table, deux projecteurs, deux haut-parleurs, des stat
  Vue ensemble       |  Vue de la table | Composantes en dessous de table | Marqeurs en dessous des statuettes
 :-------------------------:|:-------------------------:| :-------------------------:|  :-------------------------:| 
 ![photo](media/CC_vue_ensemble.jpg) | ![photo](media/CC_beta_composante_table_vue_dessus.jpg) | ![photo](media/CC_beta_composante_table_vue_en_dessous.jpg) |  ![photo](media/CC_composante_marqeur_vue_en_dessous.jpg)
+
+## Schéma de l'installation
+<img src="media/CC_schema_plantation.png" width=50%>
+(Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html )
+
+## Ressenti en expérimentant l'installation
+J'ai ressenti que l'installation était vraiment amusant à expérimenter avec les différentes intéractions et créer plusieurs combinaisons. Le style du "3D low poly" des statuettes et des planètes étaient très bien fait et qui donnaient du charme.
+
+## Trois cours incontournables du programme
+Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de modélisation 3D et le cours d'intéractivié ludique. Ils sont besoin de ses cours pour utiliser créer les modèles 3D, des effets, l'intéractivité de chaque objet et de les projectés.
+
+## Technique ou composante technologique
+Le projet a utilisé du langage de programmation Python pour transmettre les données des marqeurs à TouchDesigner et à Unity. Je penses qu'ils sont utilisés la technique de communication inter-processus pour transmettre les donnés des marqeurs. C'est un processus qui peut être sur le même ou de différents systèmes de communication pour échanger les donners entre eux.
+
+## Préférence et justification
+La raison que Canevas comisque est mon deuxième projet préféré est que l'expérience était très intéractive et amusant. J'ai beaucoup aimé d'interagire avec les statuettes par contre j'ai remarqué que moi et les autres gens regroupaient tous les statuettes ensemble après 1 minute d'intéraction avec l'installation. Je penses qu'il manquait de complexité dans les intéractions. 
+
+
+
+# 3.Kigo
+## Créateurs
+* Nicolas St-Martin
+* Antoine Dion
+* Érick Ouellette
+* william Rathier Mailly
+* Gabriel Clerval
+  
+## Lien du projet avec Crescentia
+Le lien de ce projet avec la thème Crescentia est l'évolution de la difficulté du jeu et du décor dans le jeu.
+
+## L'installation en cours
+L'installation utilise un projecteur, une Kinect, deux haut-parleurs, une zone délimité par des rubans adhésifs orange. La zone est la zone que la Kinect détecté le joueur.  
+
+ Vue ensemble       |  Vue ensemble des composantes | Ambience finale
+:-------------------------:|:-------------------------:| :-------------------------:| 
+![photo](media/KIGO_beta_vue_ensemble.jpg) | ![photo](media/KIGO_beta_composante_vue_ensemble.jpg) | ![photo](media/KIGO_ambiance_sombre_vue_ensemble.jpg) | 
 
 ## Schéma de l'installation
 <img src="media/CC_schema_plantation.png" width=50%>
