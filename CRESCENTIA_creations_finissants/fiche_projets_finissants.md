@@ -84,7 +84,7 @@ Le lien de ce projet avec la thème Crescentia est l'évolution de la difficult�
 ## L'installation en cours
 L'installation utilise un projecteur, une Kinect, deux haut-parleurs, une zone délimité par des rubans adhésifs orange. La zone est la zone que la Kinect détecté le joueur.  
 
- Vue ensemble       |  Vue ensemble des composantes | Ambience finale
+ Vue ensemble       |  Vue ensemble des composantes | Vue finale
 :-------------------------:|:-------------------------:| :-------------------------:| 
 ![photo](media/KIGO_beta_vue_ensemble.jpg) | ![photo](media/KIGO_beta_composante_vue_ensemble.jpg) | ![photo](media/KIGO_ambiance_sombre_vue_ensemble.jpg) | 
 
@@ -103,3 +103,39 @@ Le projet a utilisé la Kinect pour détecté les mouvements des joueurs. Il peu
 
 ## Préférence et justification
 La raison que Kigo est mon troisième projet préféré est que l'expérience était amusant et j'aimais que c'était un jeu vidéo. Par contre, la Kinect détecté mal mes movements quelque fois, mais ce n'est pas la faute des étudiants.
+
+
+
+# 4.Rhizomatique
+## Créateurs
+* Jolyanne Desjardins
+* Maïka Désy
+* Laurie Houde
+* Félix Testa Radonovic
+  
+## Lien du projet avec Crescentia
+Le lien de ce projet avec la thème Crescentia est le temps de la vie et les souvenirs qui se dévoilent. C'est l'évolution de la vie de la personne.
+
+## L'installation en cours
+L'installation utilise trois projecteurs, quatre haut-parleurs, une toile, deux Kinects placées en dessous de la toile. L'intéracteur met sa main sur la toile et le bouge à travers la toile pour découvrir les souvenirs. Plus que la main reste longtemps sur la toile plus que le souvenir va être projecté longtemps.
+
+ Vue ensemble       |  Vue du plafond | Vue en dessous de la toile
+:-------------------------:|:-------------------------:| :-------------------------:| 
+![photo](mediaRHIZOMATIQUE_beta_vue_enemble.jpg) | ![photo](media/RHIZOMATIQUE_beta_composante_equipement_vue_plafond.jpg) | ![photo](media/RHIZOMATIQUE_composante_equipement_vue_arriere.jpg) | 
+
+## Schéma de l'installation
+<img src="media/KIGO_plantation_technique.png" width=50%>
+(Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html )
+
+## Ressenti en expérimentant l'installation
+J'ai ressenti que l'installation était vraiment amusant, c'était la seule installation que c'était un jeu. La Kinect détectait des fois un peu mal mes mouvements.
+
+## Trois cours incontournables du programme
+Trois cours incontournables du programme pour ce projet seraient le cours de réalité mixte, le cours de modélisation 3D et le cours d'animations 3D. Ils sont besoin de ses cours pour utiliser créer les modèles 3D, les animations et les intégrers pour créer une expérience immersive.
+
+## Technique ou composante technologique
+Le projet a utilisé la Kinect pour détecté les mouvements des joueurs. Il peut avoir deux joueurs dans la zone. Avec la Kinect, ils pouvaient choisir la zone de limite que le jouer peut bouger. La Kinect a un projecteur infrarouge, un détecteur de distance et détecter les couleurs.
+
+## Préférence et justification
+La raison que Kigo est mon troisième projet préféré est que l'expérience était amusant et j'aimais que c'était un jeu vidéo. Par contre, la Kinect détecté mal mes movements quelque fois, mais ce n'est pas la faute des étudiants.
+
