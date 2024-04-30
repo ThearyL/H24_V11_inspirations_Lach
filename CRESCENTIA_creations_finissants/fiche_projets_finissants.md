@@ -12,3 +12,6 @@ Le lien de ce projet avec la thème Crescentia est une évolution d'un monde ou 
 ## L'installation en cours:
 L'expérience utilise trois murs blanc (deux mobiles), un grand rideau noir, deux projecteurs, trois projecteurs, quatre casques d'écouteur, et un podium avec des boutons de controls installés pour contrôler le paysage sonore et visuel projecté. 
 
+ Vue ensemble       |  Vue du haut du podium | Vue de côté du podium
+:-------------------------:|:-------------------------:| :-------------------------:|
+![photo](media/SONALUX_beta_vue_ensemble.jpg) | ![photo](media/SONALUX_beta_composante_console_vue_du_haut.jpg) | ![photo](media/SONALUX_beta_composante_console_vue_de_cote.jpg) 
