@@ -1,5 +1,5 @@
 # *Crescentia*
-![photo](media/oeuvre_affiche.jpg)
+![photo](media/SONALUX_affiche.png)
 ### Lieu de mise en exposition: Collège Montmorency - C-1710 et C-1712 - 475 Bd de l'Avenir, Laval, QC H7N 5H9
  Vue extérieur         |  Vue intérieur
 :-------------------------:|:-------------------------:|
