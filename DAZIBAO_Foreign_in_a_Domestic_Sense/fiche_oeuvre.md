@@ -45,15 +45,15 @@ Exemple vidéo:
 ![photo](media/plan_galerie.png)
 (source: https://en.dazibao.art/)
 
-Proche de l'entré de la galerie, le visiteur est acceuil par des couvertures d'urgences illuminées par une lumière bleu. Après avoir passer à travers les couvertures d'urgences, le visiteur peut voir l'oeuvre projecté de 4 différentes façons. Il y a 2 projections devant le visiteur et 2 à sa gauche. Le visiteur peut s'asseoir sur 1 des 5 «bean bags». Sur la gauche du visiteur, il y a une couverture d'urgence sur le plancher.
+Proche de l'entrée de la galerie, le visiteur est accueilli par des couvertures d'urgences illuminées par une lumière bleue. Après avoir passé à travers les couvertures d'urgences, le visiteur peut voir l'œuvre projetée de 4 différentes façons. Il y a 2 projections devant le visiteur et 2 à sa gauche. Le visiteur peut s'asseoir sur 1 des 5 «beans bags». Sur la gauche du visiteur, il y a une couverture d'urgence sur le plancher. 
 
 ## Composantes et techniques
 ### L'artiste a utilisé:
 * Couvertures d'urgence
-* 5 bean bags
+* 5 beans bags
 * Films Super 8
 * Disque dur/clée USB
-* Lumière bleu
+* Lumière bleue
 
  ![photo](media/composante_couverture_argente_vue_entre.jpg)
 ![photo](media/composante_equipement_vue_ensemble.jpg)
@@ -75,10 +75,10 @@ Proche de l'entré de la galerie, le visiteur est acceuil par des couvertures d'
   
 
 ## Expérience vécue
-Le visiteur est acceuilli par des couvertures d'urgences qui sont éclairés par une lumière bleu. On dirait je rentrais dans une fusée spatiale. Après avoir traversé les couvertures d'urgences, le visiteur peut voir l'oeuvre est projecté sur 4 différents murs. L'oeuvre projecte un genre de documentaire de 4 différentes façcons. 1 devant, 1 à droite et 2 à gauche. Dans un coin à gauche, il y avait une couverture d'urgence sur le plancher, deux murs noirs et la projection de l'oeuvre. Le documentaire parle de l'expérience des artistes qui immigrent de Puerto Rico à la Floride centrale. Il y avait 5 «bean bags» à terre qu'on pouvait s'asseoir dessus et regarder les projections de l'oeuvre qui dure 32 minutes.
+Le visiteur est acceuilli par des couvertures d’urgences qui sont éclairés par une lumière bleu. On dirait je rentrais dans une fusée spatiale. Après avoir traversé les couvertures d’urgences, le visiteur peut voir l’oeuvre est projecté sur 4 différents murs. L’oeuvre projecte un genre de documentaire de 4 différentes façcons. 1 devant, 1 à droite et 2 à gauche. Dans un coin à gauche, il y avait une couverture d’urgence sur le plancher, deux murs noirs et la projection de l’oeuvre. Le documentaire parle de l’expérience des artistes qui immigrent de Puerto Rico à la Floride centrale. Il y avait 5 «bean bags» à terre qu’on pouvait s’asseoir dessus et regarder les projections de l’oeuvre qui dure 32 minutes.
 
 
-Dans le documentaire, les artistes ne parlent mais il y a des sous-titres qui sont en espagnole et en français pour montrer leurs pensées. Au début du documentaire, on peut voir un temps d'écoulement, un vaisseau spaciale de la NASA et des personne qui s'apprêttent de monter à bord d'un avion.  Lorsque le temps d'écoulement se rend à zéro, le vaisseau spatiale et l'avion décollent. Dans mon point de vue, c'est comme si les artistes immigrent dans une autre planète. Arrivé en Floride, les artistes se joignent à la communauté locale portoricain et elles montrent leur expérience dans la communauté. Ensuite, elles expliquent qu'elles sont immigrés pour des raisons économiques. Si leur situation économique ne change pas, ça serait au moins un changement de mentalité et de dignité. Elles décident de travailler à Disney Land et elles parlent de leur expérience. L'expérience à Disney Land était supposé être magique, mais pour eux tout était faux. À ce moment l'oeuvre devient tout rouge et sinistre, il y a une voix d'un annonceur pour un voyage. À la fin, on revient à la réalité et les deux artistes sont sous la pluie, et elles se donnent un calin et elles se disent qu'elles ne sont pas véritablement libre. À la fin je me sentait un peu triste pour eux et j'ai senti ce qu'elles voulaient démontrer à travers cette oeuvre.
+Dans le documentaire, les artistes ne parlent mais il y a des sous-titres qui sont en espagnole et en français pour montrer leurs pensées. Au début du documentaire, on peut voir un temps d’écoulement, un vaisseau spaciale de la NASA et des personne qui s’apprêttent de monter à bord d’un avion.  Lorsque le temps d’écoulement se rend à zéro, le vaisseau spatiale et l’avion décollent. Dans mon point de vue, c’est comme si les artistes immigrent dans une autre planète. Arrivé en Floride, les artistes se joignent à la communauté locale portoricain et elles montrent leur expérience dans la communauté. Ensuite, elles expliquent qu’elles sont immigrés pour des raisons économiques. Si leur situation économique ne change pas, ça serait au moins un changement de mentalité et de dignité. Elles décident de travailler à Disney Land et elles parlent de leur expérience. L’expérience à Disney Land était supposé être magique, mais pour eux tout était faux. À ce moment l’oeuvre devient tout rouge et sinistre, il y a une voix d’un annonceur pour un voyage. À la fin, on revient à la réalité et les deux artistes sont sous la pluie, et elles se donnent un calin et elles se disent qu’elles ne sont pas véritablement libre. À la fin je me sentait un peu triste pour eux et j’ai senti ce qu’elles voulaient démontrer à travers cette oeuvre.
 <div align="center">
  
 [![vidéo](https://img.youtube.com/vi/xKi76flcNDs/0.jpg)](https://youtu.be/xKi76flcNDs )
