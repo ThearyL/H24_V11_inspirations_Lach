@@ -42,7 +42,7 @@ Exemple vidéo:
 [![vidéo](https://img.youtube.com/vi/q0oW8Oq0OOw/0.jpg)](https://youtu.be/q0oW8Oq0OOw )
 
 ## Fonction du dispositif multimédia
-L'intéracteur porte un casque d'écouteur et control une console qui controle l'environnement sonore et visuel. L'intéracteur peut contrôle les sons qui entend et son volume.
+L'interacteur porte un casque d'écouteur et contrôle une console qui contrôle l'environnement sonore et visuel. L'interacteur peut contrôle les sons qui entend et son volume.
 
 Console| 
 :-------------------------:|
@@ -66,7 +66,7 @@ Schéma de plantation
 ![photo](media/SONALUX_schema_plantation.png)
 (source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html )
 
-L'expérience SONALUX se trouve dans la partie avec les trois murs dont deux sont mobile, et un grand rideau noir.
+L'expérience SONALUX se trouve dans la partie avec les trois murs dont deux sont mobiles, et un grand rideau noir.
 
 ## Composantes et techniques
 ### Les artistes ont utilisée:
@@ -127,7 +127,7 @@ M5Stack        | Ensemble des composantes
 > (source : https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
 
 ## Expérience vécue
-Après que le visiteur a passé par les grands rideaux noir, il est acceuili par un podium avec des casques d'écouteur acrochés sur le coté et une console de controle desssus. La console a 4 boutons lumineux et 4 boutons de volume, et chacun controle un environnement sonore. L'environnement visuel projecté sur les 3 murs dépends du paramètre choisi par le visiteur. Le visiteur est immersé grâce au fait qu'il est enfermé entre les murs et le rideau
+Après que le visiteur a passé par les grands rideaux noirs, il est accueilli par un podium avec des casques d'écouteur accrochés sur le côté et une console de contrôle dessus. La console a 4 boutons lumineux et 4 boutons de volume, et chacun contrôle un environnement sonore. L'environnement visuel projeté sur les 3 murs dépend du paramètre choisi par le visiteur. Le visiteur est immergé grâce au fait qu'il est enfermé entre les murs et le rideau.
 
 <div align="center">
 <img src="media/SONALUX_interaction_visiteur_vue_ensemble.jpg" width="50%">
@@ -137,10 +137,10 @@ Après que le visiteur a passé par les grands rideaux noir, il est acceuili par
 
 
 ## Ce qui vous a plu, vous a donné des idées
-Ce qui m'a plu est le fait le dispositif essaye de jouer avec la hyperstimulation de l'utilisateur avec le son et les images projectées. J'ai une idée similaire dont un musicien a le contrôle sur la console et c'est lui qui va créer l'audiovisuel devant une audience. Une autre idée similaire est de créer une expérience dont l'intéracteur peut entendre et voir la nature en temps réel. L'environnement peut être entendre et vue en 360 degré. 
+Ce qui m'a plu est le fait que le dispositif essaye de jouer avec l’hyperstimulation de l'utilisateur avec le son et les images projetées. J'ai une idée similaire dont un musicien a le contrôle sur la console et c'est lui qui va créer l'audiovisuel devant une audience. Une autre idée similaire est de créer une expérience dont l'interacteur peut entendre et voir la nature en temps réel. L'environnement peut être entendre et vue en 360 degrés. 
 
 
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Un aspect que je ferai autrement est d'avoir une interface sur la projection ou sur le podium pour avoir une vue sur le contrôle des sons. Je penses avoir une interface va faire l'utilisateur jouer plus avec l'environnement de son puisqu'il voir ce qu'il fait en temps réel.
+Un aspect que je ferai autrement est d'avoir une interface sur la projection ou sur le podium pour avoir une vue sur le contrôle des sons. Je pense avoir une interface que va faire l'utilisateur jouer plus avec l'environnement de son puisqu'il voir ce qu'il fait en temps réel.
 ## Références
 https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
