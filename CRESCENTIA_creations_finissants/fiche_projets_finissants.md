@@ -79,10 +79,10 @@ La raison que Canevas comique est mon deuxième projet préféré est que l'exp�
 * Gabriel Clerval
   
 ## Lien du projet avec Crescentia
-Le lien de ce projet avec la thème Crescentia est l'évolution de la difficulté du jeu et du décor dans le jeu.
+Le lien de ce projet avec le thème Crescentia est l'évolution de la difficulté du jeu et du décor dans le jeu.
 
 ## L'installation en cours
-L'installation utilise un projecteur, une Kinect, deux haut-parleurs, une zone délimité par des rubans adhésifs orange. La zone est la zone que la Kinect détecté le joueur.  
+L'installation utilise un projecteur, une Kinect, deux haut-parleurs, une zone délimités par des rubans adhésifs orange. La zone est la zone que la Kinect a détecté le joueur.  
 
  Vue ensemble       |  Vue ensemble des composantes | Vue finale
 :-------------------------:|:-------------------------:| :-------------------------:| 
@@ -93,16 +93,16 @@ L'installation utilise un projecteur, une Kinect, deux haut-parleurs, une zone d
 (Source: https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
-J'ai ressenti que l'installation était vraiment amusant, c'était la seule installation que c'était un jeu. La Kinect détectait des fois un peu mal mes mouvements.
+J'ai ressenti que l'installation était vraiment amusante, c'était la seule installation que c'était un jeu. La Kinect détectait des fois un peu mal mes mouvements.
 
 ## Trois cours incontournables du programme
-Trois cours incontournables du programme pour ce projet seraient le cours de réalité mixte, le cours de modélisation 3D et le cours d'animations 3D. Les étudiants ont besoin de ses cours pour utiliser créer les modèles 3D, les animations et les intégrers pour créer une expérience immersive.
+Trois cours incontournables du programme pour ce projet seraient le cours de réalité mixte, le cours de modélisation 3D et le cours d'animations 3D. Les étudiants ont besoin de ses cours pour utiliser et créer les modèles 3D, les animations et les intégrer pour créer une expérience immersive.
 
 ## Technique ou composante technologique
-Le projet a utilisé la Kinect pour détecté les mouvements des joueurs. Il peut avoir deux joueurs dans la zone. Avec la Kinect, les étudiants pouvaient choisir la zone de limite que le jouer peut bouger. La Kinect a un projecteur infrarouge, un détecteur de distance et détecter les couleurs.
+Le projet a utilisé la Kinect pour détecter les mouvements des joueurs. Il peut avoir deux joueurs dans la zone. Avec la Kinect, les étudiants pouvaient choisir la zone de limite que le jouer peut bouger. La Kinect a un projecteur infrarouge, un détecteur de distance et détecter les couleurs.
 
 ## Préférence et justification
-La raison que Kigo est mon troisième projet préféré est que l'expérience était amusant et j'aimais que c'était un jeu vidéo. Par contre, la Kinect détecté mal mes movements quelque fois, mais ce n'est pas la faute des étudiants.
+La raison que Kigo est mon troisième projet préféré est que l'expérience était amusante et j'aimais que ce fût un jeu vidéo. Par contre, la Kinect a détecté mal mes mouvements quelquefois, mais ce n'est pas la faute des étudiants.
 
 
 
@@ -114,10 +114,10 @@ La raison que Kigo est mon troisième projet préféré est que l'expérience é
 * Félix Testa Radonovic
   
 ## Lien du projet avec Crescentia
-Le lien de ce projet avec la thème Crescentia est le temps de la vie et les souvenirs qui se dévoilent. C'est l'évolution de la vie de la personne.
+Le lien de ce projet avec le thème Crescentia est le temps de la vie et les souvenirs qui se dévoilent. C'est l'évolution de la vie de la personne.
 
 ## L'installation en cours
-L'installation utilise trois projecteurs, quatre haut-parleurs, une toile, deux Kinects placées en dessous de la toile. L'intéracteur met sa main sur la toile et le bouge à travers la toile pour découvrir les souvenirs. Plus que la main reste longtemps sur la toile plus que le souvenir va être projecté longtemps.
+L'installation utilise trois projecteurs, quatre haut-parleurs, une toile, deux Kinects placées en dessous de la toile. L'interacteur met sa main sur la toile et le bouge à travers la toile pour découvrir les souvenirs. Plus que la main reste longtemps sur la toile, plus que le souvenir va être projeté longtemps.
 
  Vue ensemble       |  Vue du plafond | Vue en dessous de la toile
 :-------------------------:|:-------------------------:| :-------------------------:| 
@@ -128,16 +128,16 @@ L'installation utilise trois projecteurs, quatre haut-parleurs, une toile, deux 
 (Source: https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
-J'ai ressenti que l'installation était intéressant avec son utilisation de la toile. C'était très immersif comme expérience puisque l'installation utilisait le cyclo.
+J'ai ressenti que l'installation était intéressante avec son utilisation de la toile. C'était très immersif comme expérience puisque l'installation utilisait le cycle.
 
 ## Trois cours incontournables du programme
-Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de traitement d'audiovisuel et le cours d'intéractivité ludique. Les étudiants ont besoin de ses cours pour monter et créer un expérience audiovisuel liéé à un dispositif.
+Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de traitement d'audiovisuel et le cours d'interactivité ludique. Les étudiants ont besoin de ses cours pour monter et créer une expérience audiovisuelle liée à un dispositif.
 
 ## Technique ou composante technologique
-Le projet a utilisé la Kinect pour détecté les mouvements de la main de l'utilisateur, et dépendant du moment et du mouvement, il y a un audiovisuel qui joue. Les étudiants ont problament utiliser le projecteur d'infrarouge et le détecteur de distance de la Kinect pour cette expérience.
+Le projet a utilisé la Kinect pour détecter les mouvements de la main de l'utilisateur, et dépendant du moment et du mouvement, il y a un audiovisuel qui joue. Les étudiants ont probablement utilisé le projecteur d'infrarouge et le détecteur de distance de la Kinect pour cette expérience.
 
 ## Préférence et justification
-La raison que Rhizomatique est mon quatrième projet préféré est que l'expérience était très immersive, et la projection et l'intéractivité de la toile est bien fait. Mais malheureusement, je ne trouvais pas intéressant.
+La raison que Rhizomatique est mon quatrième projet préféré est que l'expérience était très immersive, et la projection et l'interactivité de la toile est bien faites. Mais malheureusement, je ne trouvais pas intéressant.
 
 
 
@@ -151,10 +151,10 @@ La raison que Rhizomatique est mon quatrième projet préféré est que l'expér
 * Viktor Zhuravlev
   
 ## Lien du projet avec Crescentia
-Le lien de ce projet avec la thème Crescentia est la croissance de la vie selon de chaque conséquence.
+Le lien de ce projet avec le thème Crescentia est la croissance de la vie selon de chaque conséquence.
 
 ## L'installation en cours
-L'installation se trouve au petit studio et il utilise des projecteurs, des petits écrans, des lumières, des haut-parleurs et plusieurs autres composantes uniques à leur projet. L'intéracteur doit peser sur bouton sur "l'arbre" qui se trouve au milieu et ensuite suivre les instructions aidé par une lumière. 
+L'installation se trouve au petit studio et il utilise des projecteurs, des petits écrans, des lumières, des haut-parleurs et plusieurs autres composantes uniques à leur projet. L'interacteur doit peser sur bouton sur "l'arbre" qui se trouve au milieu et ensuite suivre les instructions aidées par une lumière. 
 
  Vue ensemble       |  Vue du plafond | Vue sur des composantes
 :-------------------------:|:-------------------------:| :-------------------------:| 
@@ -165,13 +165,13 @@ L'installation se trouve au petit studio et il utilise des projecteurs, des peti
 (Source: https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
-J'ai ressenti que l'installation était intéressant et complexe, mais c'était une expérience linéaire et incomplet malheureusement.
+J'ai ressenti que l'installation était intéressante et complexe, mais c'était une expérience linéaire et incomplète malheureusement.
 
 ## Trois cours incontournables du programme
-Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de traitement d'audiovisuel et le cours d'objets intéractives. Les étudiants ont besoin de ses cours pour monter et créer un expérience audiovisuel qui peut être intéragi avec plusieurs objets.
+Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de traitement d'audiovisuel et le cours d'objets interactifs. Les étudiants ont besoin de ses cours pour monter et créer une expérience audiovisuelle qui peut être interagi avec plusieurs objets.
 
 ## Technique ou composante technologique
-Le projet a utilisé des Arduinos en arrière de chaque écran poue la transmission de données. Arduino est un microcontrôleur et un logiciel qui sont de source ouverte. L'utilisation est très facile grâce aux ressources en ligne et ils sont très versatiles.
+Le projet a utilisé des Arduinos en arrière de chaque écran pour la transmission de données. Arduino est un microcontrôleur et un logiciel qui sont de source ouverte. L'utilisation est très facile grâce aux ressources en ligne et ils sont très versatiles.
 
 ## Préférence et justification
-La raison que Rhizomatique est mon dernier projet préféré est que l'expérience était très lineaire et inconplet. J'imagine que le projet était trop complexe pour les étudients et ils manquaient du temps.
+La raison que Rhizomatique est mon dernier projet préféré est que l'expérience était très linéaire et incomplète. J'imagine que le projet était trop complexe pour les étudiants et ils manquaient du temps.
