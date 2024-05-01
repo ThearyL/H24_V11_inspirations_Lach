@@ -51,7 +51,7 @@ Exemple vidéo:
 [![vidéo](https://img.youtube.com/vi/Z1_MLNvblGE/0.jpg)](https://youtu.be/Z1_MLNvblGE )
 
 ## Fonction du dispositif multimédia
-L'intéracteur doit visé la caméra vers les cinq marqeurs en forme d'étoile qui se trouvent un peu partout dans la mise en espace.
+L’interacteur doit viser la caméra vers les cinq marqueurs en forme d’étoile qui se trouvent un peu partout dans la mise en espace.
 
 Caméra en arrière du dispositif| 
 :-------------------------:|
@@ -80,7 +80,7 @@ Interface du jeu | Un texte qui montre lorsque l'intéracteur est proche d'une b
 ![photo](media/plan_galerie.png)
 (source: https://en.dazibao.art/)
 
-Proche des dispositifs en collaboration avec Ubisoft, les dispositifs (placés à une hauteur différente d'une de l'autre) sont placé d'une façon que les caméras des dispostifs puissent voir une vue large du plafond et des autres dispositifs de la deuxième partie de Explore.
+Proche des dispositifs en collaboration avec Ubisoft, les dispositifs (placés à une hauteur différente d’une de l’autre) sont placés d’une façon que les caméras des dispositifs puissent voir une vue large du plafond et des autres dispositifs de la deuxième partie d’«Explore».
 
 ## Composantes et techniques
 ### La firme a utilisée:
@@ -99,13 +99,13 @@ Composantes dans un cabinet en-dessous de l'écran|
 
 
 ## Éléments nécessaires à la mise en exposition
-* Câbles, adpteurs, alimentation et extension
+* Câbles, adapteurs, alimentation et extension
 * Tuiles du plancher retirables
 * Cabinets pour mettre les composantes
   
 
 ## Expérience vécue
-Les dispositifs de «Réalité parallèle» sont placés dans la deuxièmes section de «Explore», proches de dispositifs en collaboration avec Ubisoft. Elles sons placées en direction pour avoir une vue ensemble de la section en entière. Les deux dispositifs sont mis à une hauteur différent pour accommoder à la grandeur de l'intéracteur. L'objectif est de trouvé les cinqs bestioles cachés un peu partout de la mise en espace et il y a un temps limité de 60 secondes. L'intéracteur doit bouger l'écran avec des poignés sur les cotés. Sur l'écran, il a un texte qui va apparaître lorsque la personne est proche de trouver la bestiole. Lorsque l'intéracteur à trouver bestiole, il y a une animation spéciale qui fait apparaître la bestiole. Je trouve que ce dispositif est bien fait et que l'interface et les animations sont cutes.
+Les dispositifs de «Réalité parallèle» sont placés dans la deuxième section de «Explore», proches de dispositifs en collaboration avec Ubisoft. Elles sons placés en direction pour avoir une vue ensemble de la section en entière. Les deux dispositifs sont mis à une hauteur différente pour accommoder à la grandeur de l’interacteur. L’objectif est de trouver les cinq bestioles cachées un peu partout de la mise en espace et il y a un temps limité de 60 secondes. L’interacteur doit bouger l’écran avec des poignés sur les côtés. Sur l’écran, il a un texte qui va apparaître lorsque la personne est proche de trouver la bestiole. Lorsque l’interacteur à trouver une bestiole, il y a une animation spéciale qui fait apparaître la bestiole. Je trouve que ce dispositif est bien fait et que l’interface et les animations sont cutes.
 
 <div align="center">
 <img src="media/dispositif_interaction_visiteur.jpg" width="50%">
@@ -113,12 +113,12 @@ Les dispositifs de «Réalité parallèle» sont placés dans la deuxièmes sect
 
 
 
-
 ## Ce qui vous a plu, vous a donné des idées
-Ce qui m'a plu est le fait que le dispositif a utilisé des marqueurs d'identification en forme d'étoile pour trouver les bestioles avec la caméra. Pour mes prochaines créations multimédias, je pourrais utiliser une caméra et des marqueurs avec des formes spécifiques ou des couleurs spécifiques pour créer un jeu ou un art numérique.
+Ce qui m’a plu est le fait que le dispositif a utilisé des marqueurs d’identification en forme d’étoile pour trouver les bestioles avec la caméra. Pour mes prochaines créations multimédias, je pourrais utiliser une caméra et des marqueurs avec des formes spécifiques ou des couleurs spécifiques pour créer un jeu ou un art numérique.
 
 
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Un aspect que je ferai autrement est de redesigner la boite verte de l'écran puisque le design est très industriel. Je le redisignerai d'une façon plus futuristique. 
+Un aspect que je ferai autrement est de redésigner la boite verte de l’écran puisque le design est très industriel. Je le redésignerai d’une façon plus futuriste. 
+
 ## Références
 https://www.centredessciencesdemontreal.com/
