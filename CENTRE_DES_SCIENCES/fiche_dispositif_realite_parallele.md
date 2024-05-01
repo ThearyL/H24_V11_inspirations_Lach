@@ -42,7 +42,7 @@ Installation intéractive et un peu immersive
 
 Exemple vidéo:
 
-[![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws )
+[![vidéo](https://img.youtube.com/vi/Z1_MLNvblGE/0.jpg)](https://youtu.be/Z1_MLNvblGE )
 
 ## Fonction du dispositif multimédia
 L'intéracteur doit visé la caméra vers les cinq marqeurs en forme d'étoile qui se trouvent un peu partout dans la mise en espace.
