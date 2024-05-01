@@ -122,3 +122,4 @@ Un aspect dont je ferai autrement est de redésigner la boite verte de l’écra
 
 ## Références
 https://www.centredessciencesdemontreal.com/
+https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/2023-2024-plan-centre-des-sciences-montreal-map-vf.pdf
