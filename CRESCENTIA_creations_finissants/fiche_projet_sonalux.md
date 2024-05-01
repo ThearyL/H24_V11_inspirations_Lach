@@ -57,9 +57,14 @@ Console|
 
 ## Mise en espace
 Vue ensemble de la pièce
+
+
 ![photo](media/CRESCENTIA_vue_ensemble.jpg)
-![photo](media/KIGO_beta_interaction_visiteur.jpg)
-(source: https://en.dazibao.art/)
+Schéma de plantation
+
+
+![photo](media/SONALUX_schema_plantation.png)
+(source: https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html )
 
 L'expérience SONALUX se trouve dans la partie avec les trois murs dont deux sont mobile, et un grand rideau noir.
 
