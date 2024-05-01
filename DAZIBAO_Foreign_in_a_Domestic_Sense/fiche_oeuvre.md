@@ -91,5 +91,5 @@ Ce qui m'a plu est le fait que l'œuvre était projetée de 4 différentes persp
 
 
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Un aspect que je ferai autrement c'est d'ajouter plus de décoration et faire des jeux de lumière pour se sentir qu’on est dans une autre planète. La salle où se trouve la projection de l'œuvre est presque vide et j'ai bien aimé le passage avec les couvertures d'urgences au début. Les décorations seront en lien avec l'espace et les jeux de lumière sont en lien avec la vidéo. L'expérience serait plus immersive de cette façon pour les visiteurs.
+Un aspect dont je ferai autrement c'est d'ajouter plus de décoration et faire des jeux de lumière pour se sentir qu’on est dans une autre planète. La salle où se trouve la projection de l'œuvre est presque vide et j'ai bien aimé le passage avec les couvertures d'urgences au début. Les décorations seront en lien avec l'espace et les jeux de lumière sont en lien avec la vidéo. L'expérience serait plus immersive de cette façon pour les visiteurs.
 ## Références
