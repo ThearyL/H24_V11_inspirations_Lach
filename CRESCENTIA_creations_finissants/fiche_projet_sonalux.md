@@ -141,6 +141,6 @@ Ce qui m'a plu est le fait que le dispositif essaye de jouer avec l’hyperstimu
 
 
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
-Un aspect que je ferai autrement est d'avoir une interface sur la projection ou sur le podium pour avoir une vue sur le contrôle des sons. Je pense avoir une interface qui va pousser l'utilisateur à jouer plus avec l'environnement de son puisqu'il voir ce qu'il fait en temps réel.
+Un aspect dont je ferai autrement est d'avoir une interface sur la projection ou sur le podium pour avoir une vue sur le contrôle des sons. Je pense avoir une interface qui va pousser l'utilisateur à jouer plus avec l'environnement de son puisqu'il voir ce qu'il fait en temps réel.
 ## Références
 https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html
