@@ -1,7 +1,10 @@
 # *Explore - La science des grands*
 <div align="center">
 <img src="media/CDSM_explore_affiche.png">
+  
+  (Source : https://www.centredessciencesdemontreal.com/ )
 </div>
+
 
 ### Lieu de mise en exposition: Centre des sciences - 2 Rue de la Commune O, Montréal QC H2Y 4B2
 Selfie            |  
@@ -118,3 +121,4 @@ Ce qui m'a plu est le fait que le dispositif a utilisé des marqueurs d'identifi
 ##  Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement
 Un aspect que je ferai autrement est de redesigner la boite verte de l'écran puisque le design est très industriel. Je le redisignerai d'une façon plus futuristique. 
 ## Références
+https://www.centredessciencesdemontreal.com/
