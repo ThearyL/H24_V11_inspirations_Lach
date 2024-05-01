@@ -39,7 +39,7 @@ Installation intéractive et immersive
 
 Exemple vidéo:
 
-[![vidéo](https://img.youtube.com/vi/Yb9PSNhMWws/0.jpg)](https://www.youtube.com/watch?v=Yb9PSNhMWws )
+[![vidéo](https://img.youtube.com/vi/q0oW8Oq0OOw/0.jpg)](https://youtu.be/q0oW8Oq0OOw )
 
 ## Fonction du dispositif multimédia
 L'intéracteur porte un casque d'écouteur et control une console qui controle l'environnement sonore et visuel. L'intéracteur peut contrôle les sons qui entend et son volume.
