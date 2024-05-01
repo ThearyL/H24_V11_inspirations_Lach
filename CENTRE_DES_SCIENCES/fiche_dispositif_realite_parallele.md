@@ -1,5 +1,8 @@
 # *Explore - La science des grands*
-![photo](media/oeuvre_affiche.jpg)
+<div align="center">
+<img src="media/CDSM_explore_affiche.png">
+</div>
+
 ### Lieu de mise en exposition: Centre des sciences - 2 Rue de la Commune O, Montréal QC H2Y 4B2
 Selfie            |  
 :-------------------------:|
