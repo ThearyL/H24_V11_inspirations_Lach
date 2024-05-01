@@ -77,8 +77,8 @@ Interface du jeu | Un texte qui montre lorsque l'intéracteur est proche d'une b
 ## Mise en espace
 ![photo](media/dispositif_vue_ensemble_milieu.jpg)
 ![photo](media/dispositif_vue_ensemble_en_arriere.jpg)
-![photo](media/plan_galerie.png)
-(source: https://en.dazibao.art/)
+![photo](media/CDSM_plan.PNG)
+(source: https://www.centredessciencesdemontreal.com/sites/default/files/inline-files/2023-2024-plan-centre-des-sciences-montreal-map-vf.pdf )
 
 Proche des dispositifs en collaboration avec Ubisoft, les dispositifs (placés à une hauteur différente d’une de l’autre) sont placés d’une façon que les caméras des dispositifs peut voir une vue large du plafond et des autres dispositifs de la deuxième partie d’«Explore».
 
