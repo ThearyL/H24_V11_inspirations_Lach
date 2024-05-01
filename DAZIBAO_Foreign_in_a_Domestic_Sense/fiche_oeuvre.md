@@ -38,6 +38,8 @@ Exemple vidéo:
 [![vidéo](https://img.youtube.com/vi/YkJRO4wJ9gg/0.jpg)](https://youtu.be/YkJRO4wJ9gg )
 
 ## Fonction du dispositif multimédia
+[![vidéo](https://img.youtube.com/vi/UzbXF2o6Abk/0.jpg)]( https://youtu.be/UzbXF2o6Abk?si=XN7na_JNnv-t5nR1 )
+
 
 ## Mise en espace
 ![photo](media/oeuvre_vue_assis.jpg)
