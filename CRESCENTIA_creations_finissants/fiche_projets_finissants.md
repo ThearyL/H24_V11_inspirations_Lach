@@ -7,10 +7,10 @@
 * Antoine Haddad
 
 ## Lien du projet avec Crescentia
-Le lien de ce projet avec la thème Crescentia est une évolution d'un monde ou du temps dans un voyage astral
+Le lien de ce projet avec le thème Crescentia est une évolution d'un monde ou du temps dans un voyage astral
 
 ## L'installation en cours
-L'installation utilise trois murs blanc (deux mobiles), un grand rideau noir, deux projecteurs, trois projecteurs, quatre casques d'écouteur, et un podium avec des boutons de controls installés pour contrôler le paysage sonore et visuel projecté. 
+L'installation utilise trois murs blancs (deux mobiles), un grand rideau noir, deux projecteurs, trois projecteurs, quatre casques d'écouteur, et un podium avec des boutons de contrôle installés pour contrôler le paysage sonore et visuel projeté. 
 
  Vue ensemble       |  Vue du haut du podium | Vue de côté du podium
 :-------------------------:|:-------------------------:| :-------------------------:|
@@ -21,13 +21,13 @@ L'installation utilise trois murs blanc (deux mobiles), un grand rideau noir, de
 (Source: https://github.com/Sonalux2024/Sonalux/tree/main/docs/preproduction](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
-J'ai ressenti que j'étais transporté dans un autre grâce aux audios utilisés et le fait que je suis enfermé entre des murs. Aussi le fait que je pouvais contrôler l'audio a beacoup ajouter à l'expérience. Par contre, le visuel projecté n'était pas très cohérent avec l'audio.
+J'ai ressenti que j'étais transporté dans un autre grâce aux audios utilisés et le fais que je suis enfermé entre des murs. Aussi le fait que je pouvais contrôler l'audio a beaucoup ajouté à l'expérience. Par contre, le visuel projeté n'était pas très cohérent avec l'audio.
 
 ## Trois cours incontournables du programme
-Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours d'objects intéractifs et le cours de traitement visuel. Ils sont besoin de ses cours pour utiliser les microcontroleurs, pour les effets vidéos et sonores et pour les projectés.
+Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours d'objectifs interactifs et le cours de traitement visuel. Ils sont besoin de ses cours pour utiliser les microcontrôleurs, pour les effets vidéos et sonores et pour les projecteurs.
 
 ## Technique ou composante technologique
-TouchDesigner est un logiciel pour créer des expériences intéractives, des installations multimédias et générer en temps réel de l'art visuel. L'interface du logicel est facile à utiliser et peut facilement prendre les données des composantes électroniques.
+TouchDesigner est un logiciel pour créer des expériences interactives, des installations multimédias et générer en temps réel de l'art visuel. L'interface du logiciel est facile à utiliser et peut facilement prendre les données des composantes électroniques.
 
 ## Préférence et justification
 La raison que SONALUX est mon projet préféré est que l'expérience était simple, mais il était très bien fait. Aussi, c'était le seul projet dont le son est un aspect importance sur l'expérience audiovisuel.
@@ -43,10 +43,10 @@ La raison que SONALUX est mon projet préféré est que l'expérience était sim
 * Mikaël Tourangeau
 
 ## Lien du projet avec Crescentia
-Le lien de ce projet avec la thème Crescentia est l'intéraction des objets et de le système solaire qui s'évoluent avec le temps et le nombre d'intéraction entre eux.
+Le lien de ce projet avec le thème Crescentia est l'interaction des objets et du système solaire qui s'évoluent avec le temps et le nombre d'interactions entre eux.
 
 ## L'installation en cours
-L'installation utilise une table, deux projecteurs, deux haut-parleurs, des statuettes et une Kinect,. Un projecteur sur le mur et un autre en dessous de la table. La Kinect est en dessous de la table. Les statuettes ont des marqueurs en dessous d'elles qui permet de les identifiers par la Kinect.
+L'installation utilise une table, deux projecteurs, deux haut-parleurs, des statuettes et une Kinect. Un projecteur sur le mur et un autre en dessous de la table. La Kinect est en dessous de la table. Les statuettes ont des marqueurs en dessous d'elles qui permettent de les identifier par la Kinect.
 
  Vue ensemble       |  Vue de la table | Composantes en dessous de table | Marqeurs en dessous des statuettes
 :-------------------------:|:-------------------------:| :-------------------------:|  :-------------------------:| 
@@ -57,16 +57,16 @@ L'installation utilise une table, deux projecteurs, deux haut-parleurs, des stat
 (Source: https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html )
 
 ## Ressenti en expérimentant l'installation
-J'ai ressenti que l'installation était vraiment amusant à expérimenter avec les différentes intéractions et créer plusieurs combinaisons. Le style du "3D low poly" des statuettes et des planètes étaient très bien fait et qui donnaient du charme.
+J'ai ressenti que l'installation était vraiment amusante à expérimenter avec les différentes interactions et créer plusieurs combinaisons. Le style du "3D low poly" des statuettes et des planètes était très bien faite et qui donnaient du charme.
 
 ## Trois cours incontournables du programme
-Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de modélisation 3D et le cours d'intéractivié ludique. Ils sont besoin de ses cours pour utiliser créer les modèles 3D, des effets, l'intéractivité de chaque objet et de les projectés.
+Trois cours incontournables du programme pour ce projet seraient le cours d'installation multimédia, le cours de modélisation 3D et le cours d'interactivité ludique. Ils sont besoin de ses cours pour utiliser et créer les modèles 3D, des effets, l'interactivité de chaque objet et des projecteurs.
 
 ## Technique ou composante technologique
-Le projet a utilisé du langage de programmation Python pour transmettre les données des marqeurs à TouchDesigner et à Unity. Je penses que les étudiants ont utilisés la technique de communication inter-processus pour transmettre les donnés des marqeurs. C'est un processus qui peut être sur le même ou de différents systèmes de communication pour échanger les donners entre eux.
+Le projet a utilisé du langage de programmation Python pour transmettre les données des marqueurs à TouchDesigner et à Unity. Je pense que les étudiants ont utilisé la technique de communication inter-processus pour transmettre les données des marqueurs. C'est un processus qui peut être sur le même ou de différents systèmes de communication pour échanger et les donner entre eux.
 
 ## Préférence et justification
-La raison que Canevas comisque est mon deuxième projet préféré est que l'expérience était très intéractive et amusant. J'ai beaucoup aimé d'interagire avec les statuettes par contre j'ai remarqué que moi et les autres gens regroupaient tous les statuettes ensemble après 1 minute d'intéraction avec l'installation. Je penses qu'il manquait de complexité dans les intéractions. 
+La raison que Canevas comique est mon deuxième projet préféré est que l'expérience était très interactive et amusant. J'ai très aimé d'interagir avec les statuettes par contre j'ai remarqué que moi et les autres gens regroupions toutes les statuettes ensemble après 1 minute d'interaction avec l'installation. Je pense qu'il manquait de complexité dans les interactions. 
 
 
 
